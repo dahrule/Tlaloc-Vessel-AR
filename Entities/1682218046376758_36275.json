@@ -1,0 +1,39 @@
+{
+    "1682218046376758:36275": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643738279033299:852138",
+            "fileId": "1682218046377610:37020",
+            "originalId": "1682218046377611:37021",
+            "publicId": "1682218046378859:38225",
+            "expected_hash": "3ab88f2ce3cd0517ed391a1a049f11ea"
+        },
+        "IResourceManager": {
+            "uid": "1643738279033299:852138",
+            "name": "Files/File_1682218046377610_37020",
+            "flags": 1
+        }
+    },
+    "1682218046377610:37020": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377610_37020"
+        }
+    },
+    "1682218046377611:37021": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377611_37021.lsmat"
+        }
+    },
+    "1682218046378859:38225": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TlalocVessel2/Materials/Material.lsmat",
+                "hash": "56cf2198dc87baa18ae464d05c1b3d94"
+            }
+        }
+    }
+}

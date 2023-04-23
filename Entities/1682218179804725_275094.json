@@ -1,0 +1,40 @@
+{
+    "1682218179788517:275093": {
+        "IFileManager": {
+            "path": "Files/File_1682218179788517_275093"
+        }
+    },
+    "1682218179804725:275094": {
+        "IResourceController": {
+            "name": "MagnifyingGlass",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682218179809571:275097",
+            "fileId": "1682218179788517:275093",
+            "originalId": "1682218179833099:275104",
+            "publicId": "1682218179930868:275112",
+            "expected_hash": "05f18de12ad1e805e2bc47dcb0c74537"
+        },
+        "IResourceManager": {
+            "uid": "1682218179809571:275097",
+            "name": "Files/File_1682218179788517_275093",
+            "flags": 1
+        }
+    },
+    "1682218179833099:275104": {
+        "IFileManager": {
+            "path": "Files/File_1682218179833099_275104"
+        }
+    },
+    "1682218179930868:275112": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/MagnifyingGlass",
+                "hash": "05f18de12ad1e805e2bc47dcb0c74537",
+                "complexResourceHash": "32584f7ec62bc0bc0585cc7ecd0b9259"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1682218046376762:36285": {
+        "IResourceController": {
+            "name": "circle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643744671864525:2396165",
+            "fileId": "1682218046377629:37035",
+            "originalId": "1682218046377630:37036",
+            "publicId": "1682218046378863:38238",
+            "expected_hash": "5348e378327d0f21714885cba3843ed2",
+            "additional": {
+                "originHash": "5348e378327d0f21714885cba3843ed2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643744671864525:2396165",
+            "name": "Files/File591.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046377629:37035": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377629_37035.pvr"
+        }
+    },
+    "1682218046377630:37036": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377630_37036.pvr"
+        }
+    },
+    "1682218046378863:38238": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/circle.pvr",
+                "hash": "5348e378327d0f21714885cba3843ed2"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376784:36316": {
+        "IResourceController": {
+            "name": "CubicFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443361587:123021",
+            "fileId": "1682218046377682:37077",
+            "publicId": "1682218046378878:38280",
+            "expected_hash": "ffe89eacfc799f78575ba489370cc0d3"
+        },
+        "IResourceManager": {
+            "uid": "1643762443361587:123021",
+            "name": "Files/File_1682218046377682_37077.js",
+            "flags": 1
+        }
+    },
+    "1682218046377682:37077": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377682_37077.js"
+        }
+    },
+    "1682218046378878:38280": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/EasingFuncs/CubicFunc.js",
+                "hash": "ffe89eacfc799f78575ba489370cc0d3"
+            }
+        }
+    }
+}

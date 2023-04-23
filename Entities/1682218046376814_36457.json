@@ -1,0 +1,79 @@
+{
+    "1645407059302069:8688844": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "029d386a21b7409dae9fa6c73c8c33d3"
+                    },
+                    "v": "1682218046378447:37674"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1990776",
+                "compressedSize": "92267",
+                "extension": "jpg",
+                "originalRAM": "1990776",
+                "originalSize": "92267",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378446:37673"
+        }
+    },
+    "1682218046376814:36457": {
+        "IResourceController": {
+            "name": "Tlaloc,_Codex_Rios,_p",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645407059302069:8688844",
+            "fileId": "1682218046378444:37671",
+            "originalId": "1682218046378445:37672",
+            "publicId": "1682218046378919:38401",
+            "expected_hash": "029d386a21b7409dae9fa6c73c8c33d3",
+            "additional": {
+                "originHash": "029d386a21b7409dae9fa6c73c8c33d3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645407059302069:8688844",
+            "name": "Files/File_1682218046378444_37671.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046378444:37671": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378444_37671.jpg"
+        }
+    },
+    "1682218046378445:37672": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378445_37672.jpg"
+        }
+    },
+    "1682218046378446:37673": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378446_37673.jpg"
+        }
+    },
+    "1682218046378447:37674": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378447_37674.jpg"
+        }
+    },
+    "1682218046378919:38401": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/Tlaloc,_Codex_Rios,_p.jpg",
+                "hash": "029d386a21b7409dae9fa6c73c8c33d3"
+            }
+        }
+    }
+}

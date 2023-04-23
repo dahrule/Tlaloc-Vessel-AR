@@ -1,0 +1,17 @@
+{
+    "1682218046376631:35885": {
+        "IResourceController": {
+            "name": "In_Piece_57",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536261203177646:247921"
+        },
+        "IResourceManager": {
+            "uid": "1536261203177646:247921",
+            "name": "/Resources/Resource791",
+            "flags": 20
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1682218046378866:38249": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Hints"
+            }
+        }
+    },
+    "1682218046380098:38610": {
+        "IResourceController": {
+            "name": "Hints",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378866:38249",
+            "resources": [
+                "1682218046376763:36293"
+            ]
+        }
+    }
+}

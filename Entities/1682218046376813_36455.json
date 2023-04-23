@@ -1,0 +1,79 @@
+{
+    "1645404118316384:5868131": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "ce913dc617dd2f48721dfd69d3cb4594"
+                    },
+                    "v": "1682218046378437:37666"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1710744",
+                "compressedSize": "203584",
+                "extension": "jpg",
+                "originalRAM": "1710744",
+                "originalSize": "203584",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378436:37665"
+        }
+    },
+    "1682218046376813:36455": {
+        "IResourceController": {
+            "name": "urnadeChac",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645404118316384:5868131",
+            "fileId": "1682218046378433:37663",
+            "originalId": "1682218046378434:37664",
+            "publicId": "1682218046378919:38399",
+            "expected_hash": "ce913dc617dd2f48721dfd69d3cb4594",
+            "additional": {
+                "originHash": "ce913dc617dd2f48721dfd69d3cb4594"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645404118316384:5868131",
+            "name": "Files/File_1682218046378433_37663.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046378433:37663": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378433_37663.jpg"
+        }
+    },
+    "1682218046378434:37664": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378434_37664.jpg"
+        }
+    },
+    "1682218046378436:37665": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378436_37665.jpg"
+        }
+    },
+    "1682218046378437:37666": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378437_37666.jpg"
+        }
+    },
+    "1682218046378919:38399": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/urnadeChac.jpg",
+                "hash": "ce913dc617dd2f48721dfd69d3cb4594"
+            }
+        }
+    }
+}

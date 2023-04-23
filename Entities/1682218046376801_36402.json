@@ -1,0 +1,33 @@
+{
+    "1682218046376801:36402": {
+        "IResourceController": {
+            "name": "EnableToggleCloud",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644039486901504:507646",
+            "fileId": "1682218046377828:37196",
+            "publicId": "1682218046378904:38356",
+            "expected_hash": "359b760c9bb16dfc1dff472f30470513"
+        },
+        "IResourceManager": {
+            "uid": "1644039486901504:507646",
+            "name": "Files/File_1682218046377828_37196.js",
+            "flags": 1
+        }
+    },
+    "1682218046377828:37196": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377828_37196.js"
+        }
+    },
+    "1682218046378904:38356": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/EnableToggleCloud.js",
+                "hash": "359b760c9bb16dfc1dff472f30470513"
+            }
+        }
+    }
+}

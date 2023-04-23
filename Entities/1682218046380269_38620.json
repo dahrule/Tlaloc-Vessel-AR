@@ -1,0 +1,48 @@
+{
+    "1682218046378553:37757": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378553_37757.fbx"
+        }
+    },
+    "1682218046378932:38435": {
+        "IResourceController": {
+            "public": {
+                "path": "TlalocVessel_lowpoly.fbx",
+                "hash": "eb31f75857565ab110ef24191506186a"
+            }
+        }
+    },
+    "1682218046380269:38620": {
+        "IResourceController": {
+            "name": "TlalocVessel_lowpoly",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682218046378553:37757",
+            "publicId": "1682218046378932:38435",
+            "expected_hash": "eb31f75857565ab110ef24191506186a",
+            "resources": [
+                "1682218046380266:38618",
+                "1682218046380269:38619",
+                "1682218046376820:36497"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Crown",
+                        "v": "1646187573141442:826060"
+                    },
+                    {
+                        "k": "MayaBlue",
+                        "v": "1646187572872003:826035"
+                    },
+                    {
+                        "k": "Red",
+                        "v": "1646187573487355:826085"
+                    }
+                ]
+            }
+        }
+    }
+}

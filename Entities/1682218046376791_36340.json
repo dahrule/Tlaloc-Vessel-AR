@@ -1,0 +1,33 @@
+{
+    "1682218046376791:36340": {
+        "IResourceController": {
+            "name": "TweenRotFromToQuat",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443502090:123209",
+            "fileId": "1682218046377710:37101",
+            "publicId": "1682218046378886:38308",
+            "expected_hash": "f125e4c087a310b902c4fedc9e2b2890"
+        },
+        "IResourceManager": {
+            "uid": "1643762443502090:123209",
+            "name": "Files/File_1682218046377710_37101.js",
+            "flags": 1
+        }
+    },
+    "1682218046377710:37101": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377710_37101.js"
+        }
+    },
+    "1682218046378886:38308": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Rotation/TweenRotFromToQuat.js",
+                "hash": "f125e4c087a310b902c4fedc9e2b2890"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376752:36251": {
+        "IResourceController": {
+            "name": "MarkController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537997303861453:52632",
+            "fileId": "1682218046377417:36901",
+            "publicId": "1682218046378851:38205",
+            "expected_hash": "531a28fb037477bece678672a422abd8"
+        },
+        "IResourceManager": {
+            "uid": "1537997303861453:52632",
+            "name": "/Resources/Resource2053.js",
+            "flags": 1
+        }
+    },
+    "1682218046377417:36901": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377417_36901.js"
+        }
+    },
+    "1682218046378851:38205": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MarkController.js",
+                "hash": "531a28fb037477bece678672a422abd8"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682218046376815:36467": {
+        "IResourceController": {
+            "name": "mark_material 2",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645591660114105:385959",
+            "fileId": "1682218046378473:37693",
+            "originalId": "1682218046378474:37694",
+            "publicId": "1682218046378923:38411",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1645591660114105:385959",
+            "name": "Files/File_1682218046378473_37693",
+            "flags": 1
+        }
+    },
+    "1682218046378473:37693": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378473_37693"
+        }
+    },
+    "1682218046378474:37694": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378474_37694.lsmat"
+        }
+    },
+    "1682218046378923:38411": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Materials/mark_material 2.lsmat",
+                "hash": "824f7f0e5b0495407da60e31541ad499"
+            }
+        }
+    }
+}

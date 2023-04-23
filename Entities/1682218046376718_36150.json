@@ -1,0 +1,39 @@
+{
+    "1682218046376718:36150": {
+        "IResourceController": {
+            "name": "Surface",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536272373111458:314418",
+            "fileId": "1682218046377376:36870",
+            "originalId": "1682218046377517:36951",
+            "publicId": "1682218046378779:37987",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1536272373111458:314418",
+            "name": "/Resources/Resource1801",
+            "flags": 5
+        }
+    },
+    "1682218046377376:36870": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377376_36870"
+        }
+    },
+    "1682218046377517:36951": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377517_36951.lsmat"
+        }
+    },
+    "1682218046378779:37987": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Magic/Materials/Surface.lsmat",
+                "hash": "0ea81eb83eeb1167901e6b46b3107bc6"
+            }
+        }
+    }
+}

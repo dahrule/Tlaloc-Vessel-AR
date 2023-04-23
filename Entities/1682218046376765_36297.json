@@ -1,0 +1,33 @@
+{
+    "1682218046376765:36297": {
+        "IResourceController": {
+            "name": "AddCustomTriggerResponse 2",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643753258989609:688651",
+            "fileId": "1682218046377656:37057",
+            "publicId": "1682218046378868:38256",
+            "expected_hash": "a4484374029ad9e113aac8a0304f0d61"
+        },
+        "IResourceManager": {
+            "uid": "1643753258989609:688651",
+            "name": "Files/File_1682218046377656_37057.js",
+            "flags": 1
+        }
+    },
+    "1682218046377656:37057": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377656_37057.js"
+        }
+    },
+    "1682218046378868:38256": {
+        "IResourceController": {
+            "public": {
+                "path": "AddCustomTriggerResponse 2.js",
+                "hash": "a4484374029ad9e113aac8a0304f0d61"
+            }
+        }
+    }
+}

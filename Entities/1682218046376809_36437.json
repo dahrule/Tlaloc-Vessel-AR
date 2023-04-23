@@ -1,0 +1,39 @@
+{
+    "1682218046376809:36437": {
+        "IResourceController": {
+            "name": "Dark Red",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144607410588:770911",
+            "fileId": "1682218046378375:37620",
+            "originalId": "1682218046378377:37621",
+            "publicId": "1682218046378913:38382",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144607410588:770911",
+            "name": "Files/File_1682218046378375_37620",
+            "flags": 1
+        }
+    },
+    "1682218046378375:37620": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378375_37620"
+        }
+    },
+    "1682218046378377:37621": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378377_37621.lsmat"
+        }
+    },
+    "1682218046378913:38382": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Dark Red.lsmat",
+                "hash": "2c8f0f773641e917fa3c87c28b6604f9"
+            }
+        }
+    }
+}

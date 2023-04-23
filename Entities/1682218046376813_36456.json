@@ -1,0 +1,79 @@
+{
+    "1645407003083898:8543605": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "95f4ec35fae3936b7d8fe3c8cd21a0b0"
+                    },
+                    "v": "1682218046378442:37670"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1396304",
+                "compressedSize": "80743",
+                "extension": "jpg",
+                "originalRAM": "1396304",
+                "originalSize": "80743",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378441:37669"
+        }
+    },
+    "1682218046376813:36456": {
+        "IResourceController": {
+            "name": "Huitzilopochtli_telleriano",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645407003083898:8543605",
+            "fileId": "1682218046378438:37667",
+            "originalId": "1682218046378440:37668",
+            "publicId": "1682218046378919:38400",
+            "expected_hash": "95f4ec35fae3936b7d8fe3c8cd21a0b0",
+            "additional": {
+                "originHash": "95f4ec35fae3936b7d8fe3c8cd21a0b0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645407003083898:8543605",
+            "name": "Files/File_1682218046378438_37667.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046378438:37667": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378438_37667.jpg"
+        }
+    },
+    "1682218046378440:37668": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378440_37668.jpg"
+        }
+    },
+    "1682218046378441:37669": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378441_37669.jpg"
+        }
+    },
+    "1682218046378442:37670": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378442_37670.jpg"
+        }
+    },
+    "1682218046378919:38400": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/Huitzilopochtli_telleriano.jpg",
+                "hash": "95f4ec35fae3936b7d8fe3c8cd21a0b0"
+            }
+        }
+    }
+}

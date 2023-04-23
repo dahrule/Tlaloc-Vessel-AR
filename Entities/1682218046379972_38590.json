@@ -1,0 +1,24 @@
+{
+    "1682218046378870:38261": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Behavior Nodes",
+                "hash": "ba0928032dbb458f6eab11d098942d04"
+            }
+        }
+    },
+    "1682218046379972:38590": {
+        "IResourceController": {
+            "name": "Behavior Nodes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378870:38261",
+            "resources": [
+                "1682218046376781:36302",
+                "1682218046376782:36303"
+            ]
+        }
+    }
+}

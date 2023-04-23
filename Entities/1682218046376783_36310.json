@@ -1,0 +1,33 @@
+{
+    "1682218046376783:36310": {
+        "IResourceController": {
+            "name": "TweenColorFrom",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443321837:122975",
+            "fileId": "1682218046377674:37071",
+            "publicId": "1682218046378874:38273",
+            "expected_hash": "7a05e127902a5a6f328a8df659c6e60a"
+        },
+        "IResourceManager": {
+            "uid": "1643762443321837:122975",
+            "name": "Files/File_1682218046377674_37071.js",
+            "flags": 1
+        }
+    },
+    "1682218046377674:37071": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377674_37071.js"
+        }
+    },
+    "1682218046378874:38273": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Color/TweenColorFrom.js",
+                "hash": "7a05e127902a5a6f328a8df659c6e60a"
+            }
+        }
+    }
+}

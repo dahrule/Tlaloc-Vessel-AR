@@ -1,0 +1,17 @@
+{
+    "1682218046376552:35610": {
+        "IResourceController": {
+            "name": "DoorOpen",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536086646517458:31991"
+        },
+        "IResourceManager": {
+            "uid": "1536086646517458:31991",
+            "name": "/Resources/Resource44",
+            "flags": 16
+        }
+    }
+}

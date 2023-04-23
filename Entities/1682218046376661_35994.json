@@ -1,0 +1,88 @@
+{
+    "1536272373063196:312283": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1020",
+                "compressedSize": "673",
+                "extension": "mesh",
+                "originalRAM": "1020",
+                "originalSize": "673",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378212:37494"
+        }
+    },
+    "1682218046376661:35994": {
+        "IResourceController": {
+            "name": "Cube34",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536272373063196:312283",
+            "fileId": "1682218046377285:36795",
+            "publicId": "1682218046378808:38077",
+            "expected_hash": "20661779f68141e1a1aa1f6afb8a136a"
+        },
+        "IResourceManager": {
+            "uid": "1536272373063196:312283",
+            "name": "/Resources/Resource1645.mesh",
+            "flags": 21
+        }
+    },
+    "1682218046377285:36795": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377285_36795.mesh"
+        }
+    },
+    "1682218046378212:37494": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378212_37494.mesh"
+        }
+    },
+    "1682218046378808:38077": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Magic/Meshes/Cube34.mesh",
+                "hash": "20661779f68141e1a1aa1f6afb8a136a"
+            }
+        }
+    }
+}

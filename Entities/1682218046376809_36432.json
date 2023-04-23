@@ -1,0 +1,39 @@
+{
+    "1682218046376809:36432": {
+        "IResourceController": {
+            "name": "city center",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144598600960:770761",
+            "fileId": "1682218046378363:37610",
+            "originalId": "1682218046378364:37611",
+            "publicId": "1682218046378911:38377",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144598600960:770761",
+            "name": "Files/File_1682218046378363_37610",
+            "flags": 1
+        }
+    },
+    "1682218046378363:37610": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378363_37610"
+        }
+    },
+    "1682218046378364:37611": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378364_37611.lsmat"
+        }
+    },
+    "1682218046378911:38377": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/city center.lsmat",
+                "hash": "484d64e7a4743872ed9f31abb66285f8"
+            }
+        }
+    }
+}

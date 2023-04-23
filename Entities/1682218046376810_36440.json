@@ -1,0 +1,39 @@
+{
+    "1682218046376810:36440": {
+        "IResourceController": {
+            "name": "Dark Brown",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144612754269:771007",
+            "fileId": "1682218046378383:37626",
+            "originalId": "1682218046378385:37627",
+            "publicId": "1682218046378914:38385",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144612754269:771007",
+            "name": "Files/File_1682218046378383_37626",
+            "flags": 1
+        }
+    },
+    "1682218046378383:37626": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378383_37626"
+        }
+    },
+    "1682218046378385:37627": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378385_37627.lsmat"
+        }
+    },
+    "1682218046378914:38385": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Dark Brown.lsmat",
+                "hash": "b175778e37eefbde1f8a4299bad79917"
+            }
+        }
+    }
+}

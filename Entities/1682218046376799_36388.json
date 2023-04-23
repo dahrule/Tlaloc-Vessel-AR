@@ -1,0 +1,39 @@
+{
+    "1682218046376799:36388": {
+        "IResourceController": {
+            "name": "Tween Simple",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444288637:123721",
+            "fileId": "1682218046377789:37166",
+            "originalId": "1682218046377788:37165",
+            "publicId": "1682218046378899:38343",
+            "expected_hash": "3860ab0b1b6383d9ecd42b2a2fbb86b0"
+        },
+        "IResourceManager": {
+            "uid": "1643762444288637:123721",
+            "name": "Files/File_1682218046377789_37166",
+            "flags": 1
+        }
+    },
+    "1682218046377788:37165": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377788_37165.lsscript"
+        }
+    },
+    "1682218046377789:37166": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377789_37166"
+        }
+    },
+    "1682218046378899:38343": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/Tween Simple.lsscript",
+                "hash": "407e0e164496e2c228a567e3ad7907d4"
+            }
+        }
+    }
+}

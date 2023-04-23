@@ -1,0 +1,24 @@
+{
+    "1682218046378849:38198": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/EffectControllers"
+            }
+        }
+    },
+    "1682218046379967:38589": {
+        "IResourceController": {
+            "name": "EffectControllers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378849:38198",
+            "resources": [
+                "1682218046376549:35597",
+                "1682218046376553:35613",
+                "1682218046376719:36152"
+            ]
+        }
+    }
+}

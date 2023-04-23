@@ -1,0 +1,39 @@
+{
+    "1682218046376809:36433": {
+        "IResourceController": {
+            "name": "White",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144600523314:770790",
+            "fileId": "1682218046378366:37612",
+            "originalId": "1682218046378367:37613",
+            "publicId": "1682218046378912:38378",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144600523314:770790",
+            "name": "Files/File_1682218046378366_37612",
+            "flags": 1
+        }
+    },
+    "1682218046378366:37612": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378366_37612"
+        }
+    },
+    "1682218046378367:37613": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378367_37613.lsmat"
+        }
+    },
+    "1682218046378912:38378": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/White.lsmat",
+                "hash": "ad9645eafb0b5a6abe8c6c58f43ae762"
+            }
+        }
+    }
+}

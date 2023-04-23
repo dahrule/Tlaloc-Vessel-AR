@@ -1,0 +1,33 @@
+{
+    "1682218046376807:36421": {
+        "IResourceController": {
+            "name": "TTSController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645070542642541:2699185",
+            "fileId": "1682218046378347:37599",
+            "publicId": "1682218046378910:38373",
+            "expected_hash": "382cc8caf13cfb478ce8f6108300cd7b"
+        },
+        "IResourceManager": {
+            "uid": "1645070542642541:2699185",
+            "name": "Files/File_1682218046378347_37599.js",
+            "flags": 1
+        }
+    },
+    "1682218046378347:37599": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378347_37599.js"
+        }
+    },
+    "1682218046378910:38373": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/TTSController.js",
+                "hash": "382cc8caf13cfb478ce8f6108300cd7b"
+            }
+        }
+    }
+}

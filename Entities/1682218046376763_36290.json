@@ -1,0 +1,42 @@
+{
+    "1682218046376763:36290": {
+        "IResourceController": {
+            "name": "half_circle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643744672052397:2396245",
+            "fileId": "1682218046377641:37045",
+            "originalId": "1682218046377643:37046",
+            "publicId": "1682218046378865:38245",
+            "expected_hash": "f25dcabcebddb9adb6278db0647f5d00",
+            "additional": {
+                "originHash": "f25dcabcebddb9adb6278db0647f5d00"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643744672052397:2396245",
+            "name": "Files/File601.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046377641:37045": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377641_37045.pvr"
+        }
+    },
+    "1682218046377643:37046": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377643_37046.pvr"
+        }
+    },
+    "1682218046378865:38245": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/half_circle.pvr",
+                "hash": "f25dcabcebddb9adb6278db0647f5d00"
+            }
+        }
+    }
+}

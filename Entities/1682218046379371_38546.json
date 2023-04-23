@@ -1,0 +1,22 @@
+{
+    "1682218046378653:37776": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/DoorOpen/Materials"
+            }
+        }
+    },
+    "1682218046379371:38546": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378653:37776",
+            "resources": [
+                "1682218046376552:35609"
+            ]
+        }
+    }
+}

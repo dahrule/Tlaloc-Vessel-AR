@@ -1,0 +1,79 @@
+{
+    "1645403515183611:5714715": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "4b7a251fd8dcc231571e7ecd61cf9580"
+                    },
+                    "v": "1682218046378432:37662"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8363648",
+                "compressedSize": "501387",
+                "extension": "jpg",
+                "originalRAM": "8363648",
+                "originalSize": "501387",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378431:37661"
+        }
+    },
+    "1682218046376813:36454": {
+        "IResourceController": {
+            "name": "rainGodMakeMixtec",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645403515183611:5714715",
+            "fileId": "1682218046378428:37659",
+            "originalId": "1682218046378429:37660",
+            "publicId": "1682218046378918:38398",
+            "expected_hash": "4b7a251fd8dcc231571e7ecd61cf9580",
+            "additional": {
+                "originHash": "4b7a251fd8dcc231571e7ecd61cf9580"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645403515183611:5714715",
+            "name": "Files/File_1682218046378428_37659.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046378428:37659": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378428_37659.jpg"
+        }
+    },
+    "1682218046378429:37660": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378429_37660.jpg"
+        }
+    },
+    "1682218046378431:37661": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378431_37661.jpg"
+        }
+    },
+    "1682218046378432:37662": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378432_37662.jpg"
+        }
+    },
+    "1682218046378918:38398": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/rainGodMakeMixtec.jpg",
+                "hash": "4b7a251fd8dcc231571e7ecd61cf9580"
+            }
+        }
+    }
+}

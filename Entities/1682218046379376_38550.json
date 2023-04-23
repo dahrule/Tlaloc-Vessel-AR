@@ -1,0 +1,20 @@
+{
+    "1682218046378656:37785": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Explode/Textures"
+            }
+        }
+    },
+    "1682218046379376:38550": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378656:37785",
+            "resources": []
+        }
+    }
+}

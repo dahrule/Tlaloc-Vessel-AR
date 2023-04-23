@@ -1,0 +1,85 @@
+{
+    "1643738279004142:852128": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "265836",
+                "compressedSize": "60787",
+                "extension": "mesh",
+                "originalRAM": "265836",
+                "originalSize": "60787",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378318:37576"
+        }
+    },
+    "1682218046376758:36274": {
+        "IResourceController": {
+            "name": "Vessel-_base_out 2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1643738279004142:852128",
+            "fileId": "1682218046377608:37018",
+            "originalId": "1682218046377609:37019",
+            "expected_hash": "dd7944560d1b3cbeb880532f407e4a46"
+        },
+        "IResourceManager": {
+            "uid": "1643738279004142:852128",
+            "name": "Files/File_1682218046377608_37018.mesh",
+            "flags": 1
+        }
+    },
+    "1682218046377608:37018": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377608_37018.mesh"
+        }
+    },
+    "1682218046377609:37019": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377609_37019.mesh"
+        }
+    },
+    "1682218046378318:37576": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378318_37576.mesh"
+        }
+    }
+}

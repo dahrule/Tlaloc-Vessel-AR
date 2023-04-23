@@ -1,0 +1,93 @@
+{
+    "1537561700016410:531287": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "142804",
+                "compressedSize": "97357",
+                "extension": "mesh",
+                "originalRAM": "142804",
+                "originalSize": "97357",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378313:37572"
+        }
+    },
+    "1682218046376727:36180": {
+        "IResourceController": {
+            "name": "monster_body",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561700016410:531287",
+            "fileId": "1682218046377412:36897",
+            "publicId": "1682218046378838:38162",
+            "expected_hash": "4cb3d6c2f0146a7a781e52444f991710"
+        },
+        "IResourceManager": {
+            "uid": "1537561700016410:531287",
+            "name": "/Resources/Resource1970.mesh",
+            "flags": 21
+        }
+    },
+    "1682218046377412:36897": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377412_36897.mesh"
+        }
+    },
+    "1682218046378313:37572": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378313_37572.mesh"
+        }
+    },
+    "1682218046378838:38162": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Meshes/monster_body.mesh",
+                "hash": "4cb3d6c2f0146a7a781e52444f991710"
+            }
+        }
+    }
+}

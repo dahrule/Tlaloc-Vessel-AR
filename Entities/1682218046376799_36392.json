@@ -1,0 +1,39 @@
+{
+    "1682218046376799:36392": {
+        "IResourceController": {
+            "name": "TweenScript Get Value",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444365413:123821",
+            "fileId": "1682218046377796:37172",
+            "originalId": "1682218046377795:37171",
+            "publicId": "1682218046378899:38345",
+            "expected_hash": "87ae7d97e26b1ad095397ef8ce13e4dc"
+        },
+        "IResourceManager": {
+            "uid": "1643762444365413:123821",
+            "name": "Files/File_1682218046377796_37172",
+            "flags": 1
+        }
+    },
+    "1682218046377795:37171": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377795_37171.lsscript"
+        }
+    },
+    "1682218046377796:37172": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377796_37172"
+        }
+    },
+    "1682218046378899:38345": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/TweenScript Get Value.lsscript",
+                "hash": "69d8f9e850e00873e697aed741f9a1fb"
+            }
+        }
+    }
+}

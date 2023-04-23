@@ -1,0 +1,33 @@
+{
+    "1682218046376794:36354": {
+        "IResourceController": {
+            "name": "StopTweenScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443594859:123315",
+            "fileId": "1682218046377727:37115",
+            "publicId": "1682218046378892:38324",
+            "expected_hash": "2e4c9c3ade7dfaba840c138a8b228acf"
+        },
+        "IResourceManager": {
+            "uid": "1643762443594859:123315",
+            "name": "Files/File_1682218046377727_37115.js",
+            "flags": 1
+        }
+    },
+    "1682218046377727:37115": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377727_37115.js"
+        }
+    },
+    "1682218046378892:38324": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/TweenManager Nodes/StopTweenScript.js",
+                "hash": "2e4c9c3ade7dfaba840c138a8b228acf"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376789:36332": {
+        "IResourceController": {
+            "name": "TweenSetTo",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443453937:123145",
+            "fileId": "1682218046377700:37093",
+            "publicId": "1682218046378883:38298",
+            "expected_hash": "5563a3bd5055224d5e5667b44ab5ff17"
+        },
+        "IResourceManager": {
+            "uid": "1643762443453937:123145",
+            "name": "Files/File_1682218046377700_37093.js",
+            "flags": 1
+        }
+    },
+    "1682218046377700:37093": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377700_37093.js"
+        }
+    },
+    "1682218046378883:38298": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Modifiers/TweenSetTo.js",
+                "hash": "5563a3bd5055224d5e5667b44ab5ff17"
+            }
+        }
+    }
+}

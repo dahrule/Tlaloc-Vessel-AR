@@ -1,0 +1,39 @@
+{
+    "1682218046376794:36358": {
+        "IResourceController": {
+            "name": "Countdown",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443683981:123389",
+            "fileId": "1682218046377734:37121",
+            "originalId": "1682218046377733:37120",
+            "publicId": "1682218046378893:38327",
+            "expected_hash": "58a932861bbb4bfa215c7cb2f7d46a67"
+        },
+        "IResourceManager": {
+            "uid": "1643762443683981:123389",
+            "name": "Files/File_1682218046377734_37121",
+            "flags": 1
+        }
+    },
+    "1682218046377733:37120": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377733_37120.lsscript"
+        }
+    },
+    "1682218046377734:37121": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377734_37121"
+        }
+    },
+    "1682218046378893:38327": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Countdown.lsscript",
+                "hash": "9de5db0d35a3c5e63aab818cf39b3ff8"
+            }
+        }
+    }
+}

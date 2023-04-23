@@ -1,0 +1,39 @@
+{
+    "1682218046376801:36401": {
+        "IResourceController": {
+            "name": "CloudMovement",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644029161290702:5511278",
+            "fileId": "1682218046377825:37194",
+            "originalId": "1682218046377827:37195",
+            "publicId": "1682218046378904:38355",
+            "expected_hash": "a936dde80f615e01d618e250ad2fccaf"
+        },
+        "IResourceManager": {
+            "uid": "1644029161290702:5511278",
+            "name": "Files/File_1682218046377825_37194",
+            "flags": 1
+        }
+    },
+    "1682218046377825:37194": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377825_37194"
+        }
+    },
+    "1682218046377827:37195": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377827_37195.lsscript"
+        }
+    },
+    "1682218046378904:38355": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/CloudMovement.lsscript",
+                "hash": "bf841683c7ed7895fda6ecaf3bebb527"
+            }
+        }
+    }
+}

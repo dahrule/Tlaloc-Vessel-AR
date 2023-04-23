@@ -1,0 +1,39 @@
+{
+    "1682218046376798:36380": {
+        "IResourceController": {
+            "name": "Timer",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444138061:123624",
+            "fileId": "1682218046377774:37154",
+            "originalId": "1682218046377773:37153",
+            "publicId": "1682218046378897:38338",
+            "expected_hash": "08e0aca1bf811a28b5dd8ad8b3f54015"
+        },
+        "IResourceManager": {
+            "uid": "1643762444138061:123624",
+            "name": "Files/File_1682218046377774_37154",
+            "flags": 1
+        }
+    },
+    "1682218046377773:37153": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377773_37153.lsscript"
+        }
+    },
+    "1682218046377774:37154": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377774_37154"
+        }
+    },
+    "1682218046378897:38338": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Timer.lsscript",
+                "hash": "55e11bad62452e071b02621931e229d2"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1682218046376810:36441": {
+        "IResourceController": {
+            "name": "TemploMayor",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1645144614609689:771088",
+            "fileId": "1682218046378387:37628",
+            "originalId": "1682218046378402:37639",
+            "expected_hash": "e62c0462c64cc96c9cc4670110fe0a6f"
+        },
+        "IResourceManager": {
+            "uid": "1645144614609689:771088",
+            "name": "TemploMayor",
+            "flags": 0
+        }
+    },
+    "1682218046378387:37628": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378387_37628.oprfb"
+        }
+    },
+    "1682218046378402:37639": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378402_37639.oprfb"
+        }
+    }
+}

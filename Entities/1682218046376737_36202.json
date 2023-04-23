@@ -1,0 +1,17 @@
+{
+    "1682218046376737:36202": {
+        "IResourceController": {
+            "name": "left_mouth_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698904552:530885"
+        },
+        "IResourceManager": {
+            "uid": "1537561698904552:530885",
+            "name": "/Resources/Resource1992",
+            "flags": 20
+        }
+    }
+}

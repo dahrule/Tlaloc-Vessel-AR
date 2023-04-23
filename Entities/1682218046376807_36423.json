@@ -1,0 +1,107 @@
+{
+    "1645144595882466:770555": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1848",
+                "compressedSize": "1174",
+                "extension": "mesh",
+                "originalRAM": "1848",
+                "originalSize": "1174",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378389:37630"
+        }
+    },
+    "1682218046376807:36423": {
+        "IResourceController": {
+            "name": "City center",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1645144595882466:770555",
+            "fileId": "1682218046378350:37601",
+            "expected_hash": "c74277d11d30d34c2bf9aee14f43dc4e",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "hasSkinBones": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645144595882466:770555",
+            "name": "Files/File_1682218046378350_37601.mesh",
+            "flags": 1
+        }
+    },
+    "1682218046378350:37601": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378350_37601.mesh"
+        }
+    },
+    "1682218046378389:37630": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378389_37630.mesh"
+        }
+    }
+}

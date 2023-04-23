@@ -1,0 +1,24 @@
+{
+    "1682218046378880:38288": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Helpers",
+                "hash": "d24bd2b5d1bc06405a24224b32456238"
+            }
+        }
+    },
+    "1682218046380036:38594": {
+        "IResourceController": {
+            "name": "Helpers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378880:38288",
+            "resources": [
+                "1682218046376787:36324",
+                "1682218046376787:36325"
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1682218046376552:35607": {
+        "IResourceController": {
+            "name": "Door_L",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536086646478220:31849"
+        },
+        "IResourceManager": {
+            "uid": "1536086646478220:31849",
+            "name": "/Resources/Resource41",
+            "flags": 20
+        }
+    }
+}

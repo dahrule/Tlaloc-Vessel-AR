@@ -1,0 +1,17 @@
+{
+    "1682218046376739:36208": {
+        "IResourceController": {
+            "name": "mid_brow_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698918176:530929"
+        },
+        "IResourceManager": {
+            "uid": "1537561698918176:530929",
+            "name": "/Resources/Resource1998",
+            "flags": 20
+        }
+    }
+}

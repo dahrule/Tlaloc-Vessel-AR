@@ -1,0 +1,39 @@
+{
+    "1682218046376809:36436": {
+        "IResourceController": {
+            "name": "Darker White",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144605590088:770882",
+            "fileId": "1682218046378373:37618",
+            "originalId": "1682218046378374:37619",
+            "publicId": "1682218046378913:38381",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144605590088:770882",
+            "name": "Files/File_1682218046378373_37618",
+            "flags": 1
+        }
+    },
+    "1682218046378373:37618": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378373_37618"
+        }
+    },
+    "1682218046378374:37619": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378374_37619.lsmat"
+        }
+    },
+    "1682218046378913:38381": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Darker White.lsmat",
+                "hash": "1327562b6bbe74707c04ca28a28e56ba"
+            }
+        }
+    }
+}

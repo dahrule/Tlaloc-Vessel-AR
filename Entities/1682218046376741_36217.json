@@ -1,0 +1,17 @@
+{
+    "1682218046376741:36217": {
+        "IResourceController": {
+            "name": "SPINE_03_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698884386:530808"
+        },
+        "IResourceManager": {
+            "uid": "1537561698884386:530808",
+            "name": "/Resources/Resource2007",
+            "flags": 20
+        }
+    }
+}

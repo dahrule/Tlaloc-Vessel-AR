@@ -1,0 +1,22 @@
+{
+    "1682218046378902:38349": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/low_poly_cloud/Materials"
+            }
+        }
+    },
+    "1682218046379798:38570": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378902:38349",
+            "resources": [
+                "1682218046376800:36396"
+            ]
+        }
+    }
+}

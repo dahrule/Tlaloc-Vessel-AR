@@ -1,0 +1,39 @@
+{
+    "1682218046376797:36374": {
+        "IResourceController": {
+            "name": "Tap To Play Sound",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444023614:123566",
+            "fileId": "1682218046377763:37145",
+            "originalId": "1682218046377762:37144",
+            "publicId": "1682218046378896:38335",
+            "expected_hash": "7778b394aa752430980f04bd1e392ab7"
+        },
+        "IResourceManager": {
+            "uid": "1643762444023614:123566",
+            "name": "Files/File_1682218046377763_37145",
+            "flags": 1
+        }
+    },
+    "1682218046377762:37144": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377762_37144.lsscript"
+        }
+    },
+    "1682218046377763:37145": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377763_37145"
+        }
+    },
+    "1682218046378896:38335": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap To Play Sound.lsscript",
+                "hash": "2825a10f4704b9a8a7208bd5319a2ff8"
+            }
+        }
+    }
+}

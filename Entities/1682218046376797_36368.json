@@ -1,0 +1,39 @@
+{
+    "1682218046376797:36368": {
+        "IResourceController": {
+            "name": "Tap Game",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443906215:123487",
+            "fileId": "1682218046377752:37136",
+            "originalId": "1682218046377750:37135",
+            "publicId": "1682218046378895:38332",
+            "expected_hash": "7e92d4948eddeea62e161077cd4b853a"
+        },
+        "IResourceManager": {
+            "uid": "1643762443906215:123487",
+            "name": "Files/File_1682218046377752_37136",
+            "flags": 1
+        }
+    },
+    "1682218046377750:37135": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377750_37135.lsscript"
+        }
+    },
+    "1682218046377752:37136": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377752_37136"
+        }
+    },
+    "1682218046378895:38332": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap Game.lsscript",
+                "hash": "d0d2d2d85d59b3d793075ce19f99a687"
+            }
+        }
+    }
+}

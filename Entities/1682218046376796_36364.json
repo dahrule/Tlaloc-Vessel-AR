@@ -1,0 +1,39 @@
+{
+    "1682218046376796:36364": {
+        "IResourceController": {
+            "name": "Oscillate Position",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443823461:123447",
+            "fileId": "1682218046377745:37130",
+            "originalId": "1682218046377744:37129",
+            "publicId": "1682218046378894:38330",
+            "expected_hash": "7178fe4cdda36d74c9777999443adeff"
+        },
+        "IResourceManager": {
+            "uid": "1643762443823461:123447",
+            "name": "Files/File_1682218046377745_37130",
+            "flags": 1
+        }
+    },
+    "1682218046377744:37129": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377744_37129.lsscript"
+        }
+    },
+    "1682218046377745:37130": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377745_37130"
+        }
+    },
+    "1682218046378894:38330": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Oscillate Position.lsscript",
+                "hash": "514d0f6942ab3eabcde450e66d1f249d"
+            }
+        }
+    }
+}

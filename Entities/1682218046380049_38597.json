@@ -1,0 +1,28 @@
+{
+    "1682218046378884:38304": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Rotation",
+                "hash": "0aedaa937389381a4dcc13f50d590bdc"
+            }
+        }
+    },
+    "1682218046380049:38597": {
+        "IResourceController": {
+            "name": "Rotation",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378884:38304",
+            "resources": [
+                "1682218046376790:36337",
+                "1682218046376790:36338",
+                "1682218046376790:36339",
+                "1682218046376791:36340",
+                "1682218046376791:36341",
+                "1682218046376791:36342"
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1682218046378847:38191": {
+        "IResourceController": {
+            "public": {
+                "path": "MarkerPrefabs"
+            }
+        }
+    },
+    "1682218046379949:38584": {
+        "IResourceController": {
+            "name": "MarkerPrefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378847:38191",
+            "resources": [
+                "1682218046376724:36167",
+                "1682218046376753:36252",
+                "1682218046376753:36253",
+                "1682218046376753:36254"
+            ]
+        }
+    }
+}

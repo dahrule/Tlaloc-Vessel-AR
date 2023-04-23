@@ -1,0 +1,17 @@
+{
+    "1682218046376749:36243": {
+        "IResourceController": {
+            "name": "GROUND",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561699999015:531244"
+        },
+        "IResourceManager": {
+            "uid": "1537561699999015:531244",
+            "name": "/Resources/Resource2033",
+            "flags": 20
+        }
+    }
+}

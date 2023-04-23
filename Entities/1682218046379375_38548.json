@@ -1,0 +1,23 @@
+{
+    "1682218046378655:37783": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/DoorOpen/Animations"
+            }
+        }
+    },
+    "1682218046379375:38548": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378655:37783",
+            "resources": [
+                "1682218046376552:35607",
+                "1682218046376552:35608"
+            ]
+        }
+    }
+}

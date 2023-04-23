@@ -1,0 +1,79 @@
+{
+    "1554327485777713:330411": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2eb2ae3878be25236dbd6b088d38bdc9"
+                    },
+                    "v": "1682218046377577:36992"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "82140",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "74149",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046377537:36968"
+        }
+    },
+    "1682218046376754:36257": {
+        "IResourceController": {
+            "name": "image_marker_source",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1554327485777713:330411",
+            "fileId": "1682218046377444:36923",
+            "originalId": "1682218046377553:36982",
+            "publicId": "1682218046378851:38207",
+            "expected_hash": "02fd0bb729364d46111988bf29c7878f",
+            "additional": {
+                "originHash": "2eb2ae3878be25236dbd6b088d38bdc9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1554327485777713:330411",
+            "name": "Files/File450.png",
+            "flags": 1
+        }
+    },
+    "1682218046377444:36923": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377444_36923.pvr"
+        }
+    },
+    "1682218046377537:36968": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377537_36968.png"
+        }
+    },
+    "1682218046377553:36982": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377553_36982.png"
+        }
+    },
+    "1682218046377577:36992": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377577_36992.pvr"
+        }
+    },
+    "1682218046378851:38207": {
+        "IResourceController": {
+            "public": {
+                "path": "Markers [REPLACE_ME]/image_marker_source.png",
+                "hash": "2eb2ae3878be25236dbd6b088d38bdc9"
+            }
+        }
+    }
+}

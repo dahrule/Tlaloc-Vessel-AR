@@ -1,0 +1,39 @@
+{
+    "1682218046376798:36382": {
+        "IResourceController": {
+            "name": "Random Tweens",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444178294:123667",
+            "fileId": "1682218046377779:37157",
+            "originalId": "1682218046377777:37156",
+            "publicId": "1682218046378898:38340",
+            "expected_hash": "34b1ce0c38e677f20155687fe12be732"
+        },
+        "IResourceManager": {
+            "uid": "1643762444178294:123667",
+            "name": "Files/File_1682218046377779_37157",
+            "flags": 1
+        }
+    },
+    "1682218046377777:37156": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377777_37156.lsscript"
+        }
+    },
+    "1682218046377779:37157": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377779_37157"
+        }
+    },
+    "1682218046378898:38340": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/Random Tweens.lsscript",
+                "hash": "3155e6da6b7a241a6147a7d4dd87b2df"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376782:36305": {
+        "IResourceController": {
+            "name": "RandomVec3",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443283789:122936",
+            "fileId": "1682218046377667:37066",
+            "publicId": "1682218046378871:38265",
+            "expected_hash": "0833ee646030f2cb18e6704d18aff6c9"
+        },
+        "IResourceManager": {
+            "uid": "1643762443283789:122936",
+            "name": "Files/File_1682218046377667_37066.js",
+            "flags": 1
+        }
+    },
+    "1682218046377667:37066": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377667_37066.js"
+        }
+    },
+    "1682218046378871:38265": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/RandomVec3.js",
+                "hash": "0833ee646030f2cb18e6704d18aff6c9"
+            }
+        }
+    }
+}

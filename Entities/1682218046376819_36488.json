@@ -1,0 +1,33 @@
+{
+    "1682218046376819:36488": {
+        "IResourceController": {
+            "name": "573381__ammaro__ding_01",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646110386165816:2392866",
+            "fileId": "1682218046378534:37741",
+            "publicId": "1682218046378930:38432",
+            "expected_hash": "941e181562a838ee743f22bed828bb94"
+        },
+        "IResourceManager": {
+            "uid": "1646110386165816:2392866",
+            "name": "Files/File_1682218046378534_37741.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378534:37741": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378534_37741.mp3"
+        }
+    },
+    "1682218046378930:38432": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/573381__ammaro__ding_01.mp3",
+                "hash": "941e181562a838ee743f22bed828bb94"
+            }
+        }
+    }
+}

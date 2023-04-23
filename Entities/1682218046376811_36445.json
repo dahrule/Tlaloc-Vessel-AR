@@ -1,0 +1,33 @@
+{
+    "1682218046376811:36445": {
+        "IResourceController": {
+            "name": "Montezuma-Xq4d",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645249911450737:828161",
+            "fileId": "1682218046378409:37644",
+            "publicId": "1682218046378915:38389",
+            "expected_hash": "c16850cf62d80751051a13b5ccaec08e"
+        },
+        "IResourceManager": {
+            "uid": "1645249911450737:828161",
+            "name": "Files/File_1682218046378409_37644.ttf",
+            "flags": 1
+        }
+    },
+    "1682218046378409:37644": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378409_37644.ttf"
+        }
+    },
+    "1682218046378915:38389": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Fonts/Montezuma-Xq4d.ttf",
+                "hash": "c16850cf62d80751051a13b5ccaec08e"
+            }
+        }
+    }
+}

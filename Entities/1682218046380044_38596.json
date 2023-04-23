@@ -1,0 +1,25 @@
+{
+    "1682218046378883:38300": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Position",
+                "hash": "ea4551ffe29a9d654aac9c30939cb520"
+            }
+        }
+    },
+    "1682218046380044:38596": {
+        "IResourceController": {
+            "name": "Position",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378883:38300",
+            "resources": [
+                "1682218046376789:36334",
+                "1682218046376789:36335",
+                "1682218046376789:36336"
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1682218046376741:36216": {
+        "IResourceController": {
+            "name": "NECK_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698892842:530832"
+        },
+        "IResourceManager": {
+            "uid": "1537561698892842:530832",
+            "name": "/Resources/Resource2006",
+            "flags": 20
+        }
+    }
+}

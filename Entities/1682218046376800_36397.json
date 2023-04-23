@@ -1,0 +1,30 @@
+{
+    "1682218046376800:36397": {
+        "IResourceController": {
+            "name": "low_poly_cloud",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1643904796229755:190708",
+            "fileId": "1682218046377813:37185",
+            "originalId": "1682218046377817:37187",
+            "expected_hash": "0623efde2b4973fcc64aac155d87bf12"
+        },
+        "IResourceManager": {
+            "uid": "1643904796229755:190708",
+            "name": "low_poly_cloud",
+            "flags": 0
+        }
+    },
+    "1682218046377813:37185": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377813_37185.oprfb"
+        }
+    },
+    "1682218046377817:37187": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377817_37187.oprfb"
+        }
+    }
+}

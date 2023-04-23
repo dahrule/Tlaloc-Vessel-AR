@@ -1,0 +1,23 @@
+{
+    "1682218046378859:38224": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TlalocVessel2/Materials"
+            }
+        }
+    },
+    "1682218046379793:38567": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378859:38224",
+            "resources": [
+                "1682218046376758:36275",
+                "1682218046376758:36276"
+            ]
+        }
+    }
+}

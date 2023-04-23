@@ -1,0 +1,107 @@
+{
+    "1646187572809574:826005": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "51774",
+                "compressedSize": "39651",
+                "extension": "mesh",
+                "originalRAM": "51774",
+                "originalSize": "39651",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378555:37759"
+        }
+    },
+    "1682218046376819:36492": {
+        "IResourceController": {
+            "name": "Vessel_lowpoly 2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1646187572809574:826005",
+            "fileId": "1682218046378542:37748",
+            "expected_hash": "e4836e769c6f2fa156342c5dd6469ef5",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "hasSkinBones": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646187572809574:826005",
+            "name": "Files/File_1682218046378542_37748.mesh",
+            "flags": 1
+        }
+    },
+    "1682218046378542:37748": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378542_37748.mesh"
+        }
+    },
+    "1682218046378555:37759": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378555_37759.mesh"
+        }
+    }
+}

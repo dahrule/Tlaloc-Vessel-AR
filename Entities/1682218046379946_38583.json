@@ -1,0 +1,26 @@
+{
+    "1682218046378847:38190": {
+        "IResourceController": {
+            "public": {
+                "path": "Markers [REPLACE_ME]"
+            }
+        }
+    },
+    "1682218046379946:38583": {
+        "IResourceController": {
+            "name": "Markers [REPLACE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378847:38190",
+            "resources": [
+                "1682218046376724:36168",
+                "1682218046376754:36256",
+                "1682218046376754:36257",
+                "1682218046376815:36466",
+                "1682218046376816:36472"
+            ]
+        }
+    }
+}

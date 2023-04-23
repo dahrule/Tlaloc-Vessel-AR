@@ -1,0 +1,39 @@
+{
+    "1682218046376820:36498": {
+        "IResourceController": {
+            "name": "TapBehaviourOcluder",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646593170186867:1383496",
+            "fileId": "1682218046378559:37762",
+            "originalId": "1682218046378560:37763",
+            "publicId": "1682218046378933:38440",
+            "expected_hash": "c8e37aafb8ca3649d98eec832732d369"
+        },
+        "IResourceManager": {
+            "uid": "1646593170186867:1383496",
+            "name": "Files/File_1682218046378559_37762",
+            "flags": 1
+        }
+    },
+    "1682218046378559:37762": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378559_37762"
+        }
+    },
+    "1682218046378560:37763": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378560_37763.lsscript"
+        }
+    },
+    "1682218046378933:38440": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/TapBehaviourOcluder.lsscript",
+                "hash": "5e8733937c1caab91adc70b4415eeb4a"
+            }
+        }
+    }
+}

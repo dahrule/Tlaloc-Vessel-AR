@@ -1,0 +1,25 @@
+{
+    "1682218046378874:38272": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Color",
+                "hash": "2e69a561a63b46c0ace644ce698c40f4"
+            }
+        }
+    },
+    "1682218046380024:38592": {
+        "IResourceController": {
+            "name": "Color",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378874:38272",
+            "resources": [
+                "1682218046376783:36310",
+                "1682218046376784:36311",
+                "1682218046376784:36312"
+            ]
+        }
+    }
+}

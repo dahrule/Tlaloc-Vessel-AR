@@ -1,0 +1,17 @@
+{
+    "1682218046376745:36232": {
+        "IResourceController": {
+            "name": "HIPS_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698969210:531148"
+        },
+        "IResourceManager": {
+            "uid": "1537561698969210:531148",
+            "name": "/Resources/Resource2022",
+            "flags": 20
+        }
+    }
+}

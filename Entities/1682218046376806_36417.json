@@ -1,0 +1,39 @@
+{
+    "1682218046376806:36417": {
+        "IResourceController": {
+            "name": "ToggleTapPoints",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644966653115377:1776007",
+            "fileId": "1682218046378343:37596",
+            "originalId": "1682218046378344:37597",
+            "publicId": "1682218046378909:38371",
+            "expected_hash": "7ab49b34524d72e13e14cade6cbfb90a"
+        },
+        "IResourceManager": {
+            "uid": "1644966653115377:1776007",
+            "name": "Files/File_1682218046378343_37596",
+            "flags": 1
+        }
+    },
+    "1682218046378343:37596": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378343_37596"
+        }
+    },
+    "1682218046378344:37597": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378344_37597.lsscript"
+        }
+    },
+    "1682218046378909:38371": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/ToggleTapPoints.lsscript",
+                "hash": "352870a26e4d157c8074e8036f24fe49"
+            }
+        }
+    }
+}

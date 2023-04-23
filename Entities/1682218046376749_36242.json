@@ -1,0 +1,17 @@
+{
+    "1682218046376749:36242": {
+        "IResourceController": {
+            "name": "RIGHT_KNEE_02_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698988888:531220"
+        },
+        "IResourceManager": {
+            "uid": "1537561698988888:531220",
+            "name": "/Resources/Resource2032",
+            "flags": 20
+        }
+    }
+}

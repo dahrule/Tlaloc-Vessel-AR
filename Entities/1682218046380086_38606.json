@@ -1,0 +1,22 @@
+{
+    "1682218046378863:38239": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/Toggle"
+            }
+        }
+    },
+    "1682218046380086:38606": {
+        "IResourceController": {
+            "name": "Toggle",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378863:38239",
+            "resources": [
+                "1682218046376762:36286"
+            ]
+        }
+    }
+}

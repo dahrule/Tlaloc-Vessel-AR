@@ -1,0 +1,39 @@
+{
+    "1682218046376797:36372": {
+        "IResourceController": {
+            "name": "Tap to Cycle Textures",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443987192:123548",
+            "fileId": "1682218046377760:37142",
+            "originalId": "1682218046377758:37141",
+            "publicId": "1682218046378896:38334",
+            "expected_hash": "def7f3ff9e963e8b9f82de5984522603"
+        },
+        "IResourceManager": {
+            "uid": "1643762443987192:123548",
+            "name": "Files/File_1682218046377760_37142",
+            "flags": 1
+        }
+    },
+    "1682218046377758:37141": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377758_37141.lsscript"
+        }
+    },
+    "1682218046377760:37142": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377760_37142"
+        }
+    },
+    "1682218046378896:38334": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap to Cycle Textures.lsscript",
+                "hash": "b41bd9200805386a40a9c2b3b6d7038c"
+            }
+        }
+    }
+}

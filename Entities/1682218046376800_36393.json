@@ -1,0 +1,79 @@
+{
+    "1643795299102231:1503081": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "df95321af7eae9f96e4a5479cb10ceb5"
+                    },
+                    "v": "1682218046377802:37176"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "464520",
+                "compressedSize": "24271",
+                "extension": "png",
+                "originalRAM": "3708320",
+                "originalSize": "33944",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046377801:37175"
+        }
+    },
+    "1682218046376800:36393": {
+        "IResourceController": {
+            "name": "cloud_icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643795299102231:1503081",
+            "fileId": "1682218046377797:37173",
+            "originalId": "1682218046377799:37174",
+            "publicId": "1682218046378900:38346",
+            "expected_hash": "3eb4175032413f968181bb12b9415cb0",
+            "additional": {
+                "originHash": "df95321af7eae9f96e4a5479cb10ceb5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643795299102231:1503081",
+            "name": "Files/File803.png",
+            "flags": 1
+        }
+    },
+    "1682218046377797:37173": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377797_37173.pvr"
+        }
+    },
+    "1682218046377799:37174": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377799_37174.png"
+        }
+    },
+    "1682218046377801:37175": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377801_37175.png"
+        }
+    },
+    "1682218046377802:37176": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377802_37176.pvr"
+        }
+    },
+    "1682218046378900:38346": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/cloud_icon.png",
+                "hash": "df95321af7eae9f96e4a5479cb10ceb5"
+            }
+        }
+    }
+}

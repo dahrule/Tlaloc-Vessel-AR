@@ -1,0 +1,39 @@
+{
+    "1682218046376549:35598": {
+        "IResourceController": {
+            "name": "doors_material_right",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1535676431115074:10414",
+            "fileId": "1682218046376839:36500",
+            "originalId": "1682218046377511:36946",
+            "publicId": "1682218046378649:37765",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1535676431115074:10414",
+            "name": "/Resources/Resource22",
+            "flags": 1
+        }
+    },
+    "1682218046376839:36500": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376839_36500"
+        }
+    },
+    "1682218046377511:36946": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377511_36946.lsmat"
+        }
+    },
+    "1682218046378649:37765": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/doors_material_right.lsmat",
+                "hash": "d07bbe74dfdf5ea0175c0c28c2702658"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1682218046376817:36481": {
+        "IResourceController": {
+            "name": "MayanBlue",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646021943050608:664599",
+            "fileId": "1682218046378506:37720",
+            "originalId": "1682218046378507:37721",
+            "publicId": "1682218046378929:38425",
+            "expected_hash": "e4ab593fce8d1f6c3b147f22ac08ee2c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646021943050608:664599",
+            "name": "Files/File_1682218046378506_37720",
+            "flags": 1
+        }
+    },
+    "1682218046378506:37720": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378506_37720"
+        }
+    },
+    "1682218046378507:37721": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378507_37721.lsmat"
+        }
+    },
+    "1682218046378929:38425": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/MayanBlue.lsmat",
+                "hash": "8994666a4e25b27b675efb1baf1c6af5"
+            }
+        }
+    }
+}

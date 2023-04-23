@@ -1,0 +1,39 @@
+{
+    "1682218046376797:36376": {
+        "IResourceController": {
+            "name": "Tap To Set Random Color",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444062198:123588",
+            "fileId": "1682218046377767:37148",
+            "originalId": "1682218046377766:37147",
+            "publicId": "1682218046378896:38336",
+            "expected_hash": "7b8baa32fe52552b026727766a2abf05"
+        },
+        "IResourceManager": {
+            "uid": "1643762444062198:123588",
+            "name": "Files/File_1682218046377767_37148",
+            "flags": 1
+        }
+    },
+    "1682218046377766:37147": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377766_37147.lsscript"
+        }
+    },
+    "1682218046377767:37148": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377767_37148"
+        }
+    },
+    "1682218046378896:38336": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap To Set Random Color.lsscript",
+                "hash": "29ad70bf98bdeaa04a999ec79b288cca"
+            }
+        }
+    }
+}

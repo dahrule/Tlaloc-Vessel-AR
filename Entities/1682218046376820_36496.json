@@ -1,0 +1,39 @@
+{
+    "1682218046376820:36496": {
+        "IResourceController": {
+            "name": "Red",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646187573487355:826085",
+            "fileId": "1682218046378549:37754",
+            "originalId": "1682218046378550:37755",
+            "publicId": "1682218046378933:38439",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1646187573487355:826085",
+            "name": "Files/File_1682218046378549_37754",
+            "flags": 1
+        }
+    },
+    "1682218046378549:37754": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378549_37754"
+        }
+    },
+    "1682218046378550:37755": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378550_37755.lsmat"
+        }
+    },
+    "1682218046378933:38439": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/TlalocVessel_lowpoly/Materials0/Red.lsmat",
+                "hash": "0120ab0375427bc09a040aabd4c3406e"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1682218046376812:36450": {
+        "IResourceController": {
+            "name": "Palette Material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645311443208106:423671",
+            "fileId": "1682218046378417:37650",
+            "originalId": "1682218046378419:37651",
+            "publicId": "1682218046378917:38394",
+            "expected_hash": "da829ffb6904a24e6fd1cf382703439a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645311443208106:423671",
+            "name": "Files/File_1682218046378417_37650",
+            "flags": 1
+        }
+    },
+    "1682218046378417:37650": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378417_37650"
+        }
+    },
+    "1682218046378419:37651": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378419_37651.lsmat"
+        }
+    },
+    "1682218046378917:38394": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Materials/Palette Material 2.lsmat",
+                "hash": "fe0a69f872110607e66118e609137fc0"
+            }
+        }
+    }
+}

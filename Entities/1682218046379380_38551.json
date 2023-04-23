@@ -1,0 +1,23 @@
+{
+    "1682218046378656:37786": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Explode/Materials"
+            }
+        }
+    },
+    "1682218046379380:38551": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378656:37786",
+            "resources": [
+                "1682218046376638:35904",
+                "1682218046376756:36266"
+            ]
+        }
+    }
+}

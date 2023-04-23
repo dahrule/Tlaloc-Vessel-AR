@@ -1,0 +1,42 @@
+{
+    "1682218046376815:36465": {
+        "IResourceController": {
+            "name": "hint_background 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645591657794495:383245",
+            "fileId": "1682218046378465:37688",
+            "originalId": "1682218046378466:37689",
+            "publicId": "1682218046378922:38409",
+            "expected_hash": "a53b2b70f3a2b75de9b8fac86ec85289",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645591657794495:383245",
+            "name": "Files/File_1682218046378465_37688",
+            "flags": 1
+        }
+    },
+    "1682218046378465:37688": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378465_37688"
+        }
+    },
+    "1682218046378466:37689": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378466_37689.lsmat"
+        }
+    },
+    "1682218046378922:38409": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Material/hint_background 2.lsmat",
+                "hash": "b7f23f1dc71e56555b39ccfe9cb3448f"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682218046376810:36442": {
+        "IResourceController": {
+            "name": "ToggleObjectsOnTapEvent",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645148276202852:2443238",
+            "fileId": "1682218046378404:37640",
+            "originalId": "1682218046378405:37641",
+            "publicId": "1682218046378914:38386",
+            "expected_hash": "3ddcae6c706d7f2b2a4e86e0211c3469"
+        },
+        "IResourceManager": {
+            "uid": "1645148276202852:2443238",
+            "name": "Files/File_1682218046378404_37640",
+            "flags": 1
+        }
+    },
+    "1682218046378404:37640": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378404_37640"
+        }
+    },
+    "1682218046378405:37641": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378405_37641.lsscript"
+        }
+    },
+    "1682218046378914:38386": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/ToggleObjectsOnTapEvent.lsscript",
+                "hash": "44474b88f34b0ea7ccd05ebc66cc6fa7"
+            }
+        }
+    }
+}

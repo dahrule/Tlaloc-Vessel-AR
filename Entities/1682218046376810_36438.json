@@ -1,0 +1,39 @@
+{
+    "1682218046376810:36438": {
+        "IResourceController": {
+            "name": "Yellow White",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144609348632:770940",
+            "fileId": "1682218046378378:37622",
+            "originalId": "1682218046378379:37623",
+            "publicId": "1682218046378913:38383",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144609348632:770940",
+            "name": "Files/File_1682218046378378_37622",
+            "flags": 1
+        }
+    },
+    "1682218046378378:37622": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378378_37622"
+        }
+    },
+    "1682218046378379:37623": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378379_37623.lsmat"
+        }
+    },
+    "1682218046378913:38383": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Yellow White.lsmat",
+                "hash": "e6d64efcc4e5016eec4f5986f7364e79"
+            }
+        }
+    }
+}

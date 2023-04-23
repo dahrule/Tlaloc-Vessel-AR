@@ -1,0 +1,17 @@
+{
+    "1682218046376734:36193": {
+        "IResourceController": {
+            "name": "right_mouth_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698907651:530893"
+        },
+        "IResourceManager": {
+            "uid": "1537561698907651:530893",
+            "name": "/Resources/Resource1983",
+            "flags": 20
+        }
+    }
+}

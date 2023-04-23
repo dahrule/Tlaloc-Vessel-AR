@@ -1,0 +1,39 @@
+{
+    "1682218046376796:36366": {
+        "IResourceController": {
+            "name": "Raycasting",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443863888:123469",
+            "fileId": "1682218046377748:37133",
+            "originalId": "1682218046377747:37132",
+            "publicId": "1682218046378895:38331",
+            "expected_hash": "aaf856bdf74433bdba23c9e52393a0f5"
+        },
+        "IResourceManager": {
+            "uid": "1643762443863888:123469",
+            "name": "Files/File_1682218046377748_37133",
+            "flags": 1
+        }
+    },
+    "1682218046377747:37132": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377747_37132.lsscript"
+        }
+    },
+    "1682218046377748:37133": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377748_37133"
+        }
+    },
+    "1682218046378895:38331": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Raycasting.lsscript",
+                "hash": "8fe43ddc5c780b849cc53bf6912383e0"
+            }
+        }
+    }
+}

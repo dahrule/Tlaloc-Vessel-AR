@@ -1,0 +1,33 @@
+{
+    "1682218046376817:36477": {
+        "IResourceController": {
+            "name": "InfoSection4_Question",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645744621036279:13649106",
+            "fileId": "1682218046378502:37716",
+            "publicId": "1682218046378927:38421",
+            "expected_hash": "2296f733b4c046300d87d07aba44da5f"
+        },
+        "IResourceManager": {
+            "uid": "1645744621036279:13649106",
+            "name": "Files/File_1682218046378502_37716.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378502:37716": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378502_37716.mp3"
+        }
+    },
+    "1682218046378927:38421": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/InfoSection4_Question.mp3",
+                "hash": "2296f733b4c046300d87d07aba44da5f"
+            }
+        }
+    }
+}

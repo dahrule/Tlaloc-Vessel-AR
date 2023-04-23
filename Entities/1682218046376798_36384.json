@@ -1,0 +1,39 @@
+{
+    "1682218046376798:36384": {
+        "IResourceController": {
+            "name": "Spawn And Tween",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444215456:123685",
+            "fileId": "1682218046377782:37160",
+            "originalId": "1682218046377781:37159",
+            "publicId": "1682218046378898:38341",
+            "expected_hash": "1e3fea1efbc9b06a82383b48af95a19a"
+        },
+        "IResourceManager": {
+            "uid": "1643762444215456:123685",
+            "name": "Files/File_1682218046377782_37160",
+            "flags": 1
+        }
+    },
+    "1682218046377781:37159": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377781_37159.lsscript"
+        }
+    },
+    "1682218046377782:37160": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377782_37160"
+        }
+    },
+    "1682218046378898:38341": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/Spawn And Tween.lsscript",
+                "hash": "1039455eaaa22b723e669328ace98c79"
+            }
+        }
+    }
+}

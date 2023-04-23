@@ -1,0 +1,33 @@
+{
+    "1682218046376816:36476": {
+        "IResourceController": {
+            "name": "InfoSectio2_TlalocsFaceFeatures",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645743918083430:13311939",
+            "fileId": "1682218046378500:37715",
+            "publicId": "1682218046378927:38420",
+            "expected_hash": "5b9edd28aeffd62358911bfc126ecdfb"
+        },
+        "IResourceManager": {
+            "uid": "1645743918083430:13311939",
+            "name": "Files/File_1682218046378500_37715.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378500:37715": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378500_37715.mp3"
+        }
+    },
+    "1682218046378927:38420": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/InfoSectio2_TlalocsFaceFeatures.mp3",
+                "hash": "5b9edd28aeffd62358911bfc126ecdfb"
+            }
+        }
+    }
+}

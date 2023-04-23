@@ -1,0 +1,33 @@
+{
+    "1682218046376785:36317": {
+        "IResourceController": {
+            "name": "ElasticFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443366852:123028",
+            "fileId": "1682218046377683:37078",
+            "publicId": "1682218046378878:38281",
+            "expected_hash": "452393a1322caf2465cf0fd80362de52"
+        },
+        "IResourceManager": {
+            "uid": "1643762443366852:123028",
+            "name": "Files/File_1682218046377683_37078.js",
+            "flags": 1
+        }
+    },
+    "1682218046377683:37078": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377683_37078.js"
+        }
+    },
+    "1682218046378878:38281": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/EasingFuncs/ElasticFunc.js",
+                "hash": "452393a1322caf2465cf0fd80362de52"
+            }
+        }
+    }
+}

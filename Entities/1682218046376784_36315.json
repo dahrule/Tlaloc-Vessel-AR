@@ -1,0 +1,33 @@
+{
+    "1682218046376784:36315": {
+        "IResourceController": {
+            "name": "CircularFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443356371:123014",
+            "fileId": "1682218046377680:37076",
+            "publicId": "1682218046378877:38279",
+            "expected_hash": "416afbe4db331d69bceeced8ac39a46e"
+        },
+        "IResourceManager": {
+            "uid": "1643762443356371:123014",
+            "name": "Files/File_1682218046377680_37076.js",
+            "flags": 1
+        }
+    },
+    "1682218046377680:37076": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377680_37076.js"
+        }
+    },
+    "1682218046378877:38279": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/EasingFuncs/CircularFunc.js",
+                "hash": "416afbe4db331d69bceeced8ac39a46e"
+            }
+        }
+    }
+}

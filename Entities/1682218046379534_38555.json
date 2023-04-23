@@ -1,0 +1,20 @@
+{
+    "1682218046378779:37985": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Magic/Textures"
+            }
+        }
+    },
+    "1682218046379534:38555": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378779:37985",
+            "resources": []
+        }
+    }
+}

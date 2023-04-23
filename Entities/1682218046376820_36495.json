@@ -1,0 +1,39 @@
+{
+    "1682218046376820:36495": {
+        "IResourceController": {
+            "name": "Crown",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646187573141442:826060",
+            "fileId": "1682218046378546:37752",
+            "originalId": "1682218046378547:37753",
+            "publicId": "1682218046378933:38438",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1646187573141442:826060",
+            "name": "Files/File_1682218046378546_37752",
+            "flags": 1
+        }
+    },
+    "1682218046378546:37752": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378546_37752"
+        }
+    },
+    "1682218046378547:37753": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378547_37753.lsmat"
+        }
+    },
+    "1682218046378933:38438": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/TlalocVessel_lowpoly/Materials0/Crown.lsmat",
+                "hash": "7c044f52e4a3f9e6d88e0aa06ad1cbbd"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1646184721704893:272304": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "15ab01e046067625893f1e4bab0bff7f"
+                    },
+                    "v": "1682218046378539:37746"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "212883",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "926430",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378538:37745"
+        }
+    },
+    "1682218046376819:36490": {
+        "IResourceController": {
+            "name": "Checker_1024",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646184721704893:272304",
+            "fileId": "1682218046378536:37743",
+            "originalId": "1682218046378537:37744",
+            "publicId": "1682218046378932:38434",
+            "expected_hash": "9d63a436e74f906cc3468844d380ebf9",
+            "additional": {
+                "originHash": "15ab01e046067625893f1e4bab0bff7f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646184721704893:272304",
+            "name": "Files/File_1682218046378536_37743.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046378536:37743": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378536_37743.jpg"
+        }
+    },
+    "1682218046378537:37744": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378537_37744.jpg"
+        }
+    },
+    "1682218046378538:37745": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378538_37745.jpg"
+        }
+    },
+    "1682218046378539:37746": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378539_37746.jpg"
+        }
+    },
+    "1682218046378932:38434": {
+        "IResourceController": {
+            "public": {
+                "path": "Checker_1024.jpg",
+                "hash": "15ab01e046067625893f1e4bab0bff7f"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376752:36250": {
+        "IResourceController": {
+            "name": "mark_sfx",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537997284238582:43755",
+            "fileId": "1682218046377415:36900",
+            "publicId": "1682218046378840:38167",
+            "expected_hash": "cb194fc9c0582d89c427c17c544e8682"
+        },
+        "IResourceManager": {
+            "uid": "1537997284238582:43755",
+            "name": "/Resources/Resource2052.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046377415:36900": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377415_36900.mp3"
+        }
+    },
+    "1682218046378840:38167": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Sound/mark_sfx.mp3",
+                "hash": "cb194fc9c0582d89c427c17c544e8682"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1682218046376757:36268": {
+        "IResourceController": {
+            "name": "ground_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623372558885915:6109453",
+            "fileId": "1682218046377591:37004",
+            "originalId": "1682218046377592:37005",
+            "publicId": "1682218046378857:38218",
+            "expected_hash": "a53b2b70f3a2b75de9b8fac86ec85289",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623372558885915:6109453",
+            "name": "Files/File_1682218046377591_37004",
+            "flags": 1
+        }
+    },
+    "1682218046377591:37004": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377591_37004"
+        }
+    },
+    "1682218046377592:37005": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377592_37005.lsmat"
+        }
+    },
+    "1682218046378857:38218": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Materials/ground_material.lsmat",
+                "hash": "7b5ad45b70f16dc7ee600d4e4b3fb3e3"
+            }
+        }
+    }
+}

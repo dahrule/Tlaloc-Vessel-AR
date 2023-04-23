@@ -1,0 +1,17 @@
+{
+    "1682218046376735:36195": {
+        "IResourceController": {
+            "name": "left_eye_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698910705:530901"
+        },
+        "IResourceManager": {
+            "uid": "1537561698910705:530901",
+            "name": "/Resources/Resource1985",
+            "flags": 20
+        }
+    }
+}

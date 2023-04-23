@@ -1,0 +1,28 @@
+{
+    "1682218046378869:38260": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts",
+                "hash": "4ef5d6cb20570583e8351ef165eae539"
+            }
+        }
+    },
+    "1682218046380059:38601": {
+        "IResourceController": {
+            "name": "Custom Node Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378869:38260",
+            "resources": [
+                "1682218046379972:38590",
+                "1682218046376782:36304",
+                "1682218046376782:36305",
+                "1682218046376782:36306",
+                "1682218046380052:38599",
+                "1682218046380059:38600"
+            ]
+        }
+    }
+}

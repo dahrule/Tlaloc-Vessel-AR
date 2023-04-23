@@ -1,0 +1,25 @@
+{
+    "1682218046378887:38311": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Scale",
+                "hash": "9d313aa6241bb876f2fe00039a451842"
+            }
+        }
+    },
+    "1682218046380052:38598": {
+        "IResourceController": {
+            "name": "Scale",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378887:38311",
+            "resources": [
+                "1682218046376791:36343",
+                "1682218046376791:36344",
+                "1682218046376792:36345"
+            ]
+        }
+    }
+}

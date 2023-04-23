@@ -1,0 +1,39 @@
+{
+    "1682218046376799:36390": {
+        "IResourceController": {
+            "name": "Tween To Touch Pos",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444325529:123743",
+            "fileId": "1682218046377793:37169",
+            "originalId": "1682218046377791:37168",
+            "publicId": "1682218046378899:38344",
+            "expected_hash": "6354600faeac374177b0975a3aa4e74f"
+        },
+        "IResourceManager": {
+            "uid": "1643762444325529:123743",
+            "name": "Files/File_1682218046377793_37169",
+            "flags": 1
+        }
+    },
+    "1682218046377791:37168": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377791_37168.lsscript"
+        }
+    },
+    "1682218046377793:37169": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377793_37169"
+        }
+    },
+    "1682218046378899:38344": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/Tween To Touch Pos.lsscript",
+                "hash": "2d1757e83bb2d7de046b9c8fc0d85793"
+            }
+        }
+    }
+}

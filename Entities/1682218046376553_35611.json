@@ -1,0 +1,17 @@
+{
+    "1682218046376553:35611": {
+        "IResourceController": {
+            "name": "Capture Camera Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536101868609119:33655"
+        },
+        "IResourceManager": {
+            "uid": "1536101868609119:33655",
+            "name": "FreezeCamera Output",
+            "flags": 0
+        }
+    }
+}

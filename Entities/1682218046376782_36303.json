@@ -1,0 +1,33 @@
+{
+    "1682218046376782:36303": {
+        "IResourceController": {
+            "name": "SendCustomTrigger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443273410:122922",
+            "fileId": "1682218046377664:37064",
+            "publicId": "1682218046378870:38263",
+            "expected_hash": "33c651d9604924d8cbbcf09504e8eb85"
+        },
+        "IResourceManager": {
+            "uid": "1643762443273410:122922",
+            "name": "Files/File_1682218046377664_37064.js",
+            "flags": 1
+        }
+    },
+    "1682218046377664:37064": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377664_37064.js"
+        }
+    },
+    "1682218046378870:38263": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Behavior Nodes/SendCustomTrigger.js",
+                "hash": "33c651d9604924d8cbbcf09504e8eb85"
+            }
+        }
+    }
+}

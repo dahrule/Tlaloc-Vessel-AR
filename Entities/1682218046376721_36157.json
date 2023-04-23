@@ -1,0 +1,33 @@
+{
+    "1682218046376721:36157": {
+        "IResourceController": {
+            "name": "HelperFunctions",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536619981643534:121668",
+            "fileId": "1682218046377383:36876",
+            "publicId": "1682218046378850:38203",
+            "expected_hash": "1e3fad64bef4dc33c4286918e534431b"
+        },
+        "IResourceManager": {
+            "uid": "1536619981643534:121668",
+            "name": "/Resources/Resource1893.js",
+            "flags": 1
+        }
+    },
+    "1682218046377383:36876": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377383_36876.js"
+        }
+    },
+    "1682218046378850:38203": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperFunctions.js",
+                "hash": "1e3fad64bef4dc33c4286918e534431b"
+            }
+        }
+    }
+}

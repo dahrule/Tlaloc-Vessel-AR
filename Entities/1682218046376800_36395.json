@@ -1,0 +1,75 @@
+{
+    "1643904795837887:190082": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "19056",
+                "compressedSize": "15159",
+                "extension": "mesh",
+                "originalRAM": "19056",
+                "originalSize": "15159",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046378319:37577"
+        }
+    },
+    "1682218046376800:36395": {
+        "IResourceController": {
+            "name": "Mesh_0",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1643904795837887:190082",
+            "fileId": "1682218046377808:37181",
+            "originalId": "1682218046377809:37182",
+            "expected_hash": "15ab5e4e5bdcc28375652d320597ec28"
+        },
+        "IResourceManager": {
+            "uid": "1643904795837887:190082",
+            "name": "Files/File_1682218046377808_37181.mesh",
+            "flags": 1
+        }
+    },
+    "1682218046377808:37181": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377808_37181.mesh"
+        }
+    },
+    "1682218046377809:37182": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377809_37182.mesh"
+        }
+    },
+    "1682218046378319:37577": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378319_37577.mesh"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1682218046376724:36167": {
+        "IResourceController": {
+            "name": "MarkTheMonster [PLACE_UNDER_MARKER_TRACKING]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536862107314530:423098"
+        },
+        "IResourceManager": {
+            "uid": "1536862107314530:423098",
+            "name": "/Resources/Resource1923",
+            "flags": 0
+        }
+    }
+}

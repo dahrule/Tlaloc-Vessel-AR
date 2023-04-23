@@ -1,0 +1,42 @@
+{
+    "1682218046376756:36266": {
+        "IResourceController": {
+            "name": "Surface",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623372436099838:6041205",
+            "fileId": "1682218046377587:37000",
+            "originalId": "1682218046377588:37001",
+            "publicId": "1682218046378856:38216",
+            "expected_hash": "a53b2b70f3a2b75de9b8fac86ec85289",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623372436099838:6041205",
+            "name": "Files/File_1682218046377587_37000",
+            "flags": 1
+        }
+    },
+    "1682218046377587:37000": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377587_37000"
+        }
+    },
+    "1682218046377588:37001": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377588_37001.lsmat"
+        }
+    },
+    "1682218046378856:38216": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Explode/Materials/Surface.lsmat",
+                "hash": "0d9d1a4ce4e3b8933d0cc88c3eb6d624"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682218046376800:36396": {
+        "IResourceController": {
+            "name": "Scene_-_Root",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643904795872918:190096",
+            "fileId": "1682218046377811:37183",
+            "originalId": "1682218046377812:37184",
+            "publicId": "1682218046378902:38350",
+            "expected_hash": "3ab88f2ce3cd0517ed391a1a049f11ea"
+        },
+        "IResourceManager": {
+            "uid": "1643904795872918:190096",
+            "name": "Files/File_1682218046377811_37183",
+            "flags": 1
+        }
+    },
+    "1682218046377811:37183": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377811_37183"
+        }
+    },
+    "1682218046377812:37184": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377812_37184.lsmat"
+        }
+    },
+    "1682218046378902:38350": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/low_poly_cloud/Materials/Scene_-_Root.lsmat",
+                "hash": "c45ea70efc37202c057ecfd04e33503a"
+            }
+        }
+    }
+}

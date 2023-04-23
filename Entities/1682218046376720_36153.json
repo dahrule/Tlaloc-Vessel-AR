@@ -1,0 +1,79 @@
+{
+    "1536274670099179:1651775": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f9b082c5908e95f8504031f5a2f0f339"
+                    },
+                    "v": "1682218046377572:36988"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "88200",
+                "compressedSize": "5259",
+                "extension": "png",
+                "originalRAM": "705600",
+                "originalSize": "5636",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046377527:36960"
+        }
+    },
+    "1682218046376720:36153": {
+        "IResourceController": {
+            "name": "Rainbow",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536274670099179:1651775",
+            "fileId": "1682218046377378:36872",
+            "originalId": "1682218046377543:36972",
+            "publicId": "1682218046378651:37772",
+            "expected_hash": "159eec5b22c72bd786d62a765148a4f1",
+            "additional": {
+                "originHash": "f9b082c5908e95f8504031f5a2f0f339"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1536274670099179:1651775",
+            "name": "/Resources/Resource1805.png",
+            "flags": 1
+        }
+    },
+    "1682218046377378:36872": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377378_36872.pvr"
+        }
+    },
+    "1682218046377527:36960": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377527_36960.png"
+        }
+    },
+    "1682218046377543:36972": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377543_36972.png"
+        }
+    },
+    "1682218046377572:36988": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377572_36988.pvr"
+        }
+    },
+    "1682218046378651:37772": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Rainbow.png",
+                "hash": "f9b082c5908e95f8504031f5a2f0f339"
+            }
+        }
+    }
+}

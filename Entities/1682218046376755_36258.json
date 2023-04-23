@@ -1,0 +1,33 @@
+{
+    "1682218046376755:36258": {
+        "IResourceController": {
+            "name": "MagnifyingHintController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1563476143505966:224868",
+            "fileId": "1682218046377446:36925",
+            "publicId": "1682218046378852:38208",
+            "expected_hash": "c0c905bddb063af120dbdde791ffe333"
+        },
+        "IResourceManager": {
+            "uid": "1563476143505966:224868",
+            "name": "Files/File_1682218046377446_36925.js",
+            "flags": 1
+        }
+    },
+    "1682218046377446:36925": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377446_36925.js"
+        }
+    },
+    "1682218046378852:38208": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Script/MagnifyingHintController.js",
+                "hash": "c0c905bddb063af120dbdde791ffe333"
+            }
+        }
+    }
+}

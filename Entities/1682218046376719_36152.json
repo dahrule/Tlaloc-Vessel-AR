@@ -1,0 +1,33 @@
+{
+    "1682218046376719:36152": {
+        "IResourceController": {
+            "name": "PlatformController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536272526481805:366915",
+            "fileId": "1682218046377377:36871",
+            "publicId": "1682218046378849:38201",
+            "expected_hash": "8a7a0f3b3f536505409bc3431d1fc148"
+        },
+        "IResourceManager": {
+            "uid": "1536272526481805:366915",
+            "name": "/Resources/Resource1804.js",
+            "flags": 1
+        }
+    },
+    "1682218046377377:36871": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377377_36871.js"
+        }
+    },
+    "1682218046378849:38201": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/EffectControllers/PlatformController.js",
+                "hash": "8a7a0f3b3f536505409bc3431d1fc148"
+            }
+        }
+    }
+}

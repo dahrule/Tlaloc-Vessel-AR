@@ -1,0 +1,42 @@
+{
+    "1682218046376756:36262": {
+        "IResourceController": {
+            "name": "Graph Matte Shadow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1599159611570706:789308",
+            "fileId": "1682218046377525:36958",
+            "originalId": "1682218046377526:36959",
+            "publicId": "1682218046378854:38212",
+            "expected_hash": "372b48d70518db78d1fdcaad44a74ef5",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1599159611570706:789308",
+            "name": "Files/File_1682218046377525_36958",
+            "flags": 1
+        }
+    },
+    "1682218046377525:36958": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377525_36958"
+        }
+    },
+    "1682218046377526:36959": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377526_36959.lsmat"
+        }
+    },
+    "1682218046378854:38212": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Graph Matte Shadow.lsmat",
+                "hash": "93cfdb5af70fb2a51e986e8839454f65"
+            }
+        }
+    }
+}

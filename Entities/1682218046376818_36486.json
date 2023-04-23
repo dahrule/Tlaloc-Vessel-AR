@@ -1,0 +1,79 @@
+{
+    "1646032883241363:12080836": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f809eaf010664306741ada3dbd011d4e"
+                    },
+                    "v": "1682218046378531:37739"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5000",
+                "compressedSize": "2219",
+                "extension": "png",
+                "originalRAM": "40000",
+                "originalSize": "6606",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046378529:37738"
+        }
+    },
+    "1682218046376818:36486": {
+        "IResourceController": {
+            "name": "Pictograms_wind",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646032883241363:12080836",
+            "fileId": "1682218046378527:37736",
+            "originalId": "1682218046378528:37737",
+            "publicId": "1682218046378930:38430",
+            "expected_hash": "4f9cf8ea878baa2fe21c6b52847522c7",
+            "additional": {
+                "originHash": "f809eaf010664306741ada3dbd011d4e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646032883241363:12080836",
+            "name": "Files/File1440.png",
+            "flags": 1
+        }
+    },
+    "1682218046378527:37736": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378527_37736.pvr"
+        }
+    },
+    "1682218046378528:37737": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378528_37737.png"
+        }
+    },
+    "1682218046378529:37738": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378529_37738.png"
+        }
+    },
+    "1682218046378531:37739": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378531_37739.pvr"
+        }
+    },
+    "1682218046378930:38430": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/Pictograms_wind.png",
+                "hash": "f809eaf010664306741ada3dbd011d4e"
+            }
+        }
+    }
+}

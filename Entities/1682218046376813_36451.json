@@ -1,0 +1,33 @@
+{
+    "1682218046376813:36451": {
+        "IResourceController": {
+            "name": "fredoka_one_regular 2",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645311443395542:423763",
+            "fileId": "1682218046378420:37652",
+            "publicId": "1682218046378917:38395",
+            "expected_hash": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+        },
+        "IResourceManager": {
+            "uid": "1645311443395542:423763",
+            "name": "Files/File_1682218046378420_37652.ttf",
+            "flags": 1
+        }
+    },
+    "1682218046378420:37652": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378420_37652.ttf"
+        }
+    },
+    "1682218046378917:38395": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Fonts/fredoka_one_regular 2.ttf",
+                "hash": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+            }
+        }
+    }
+}

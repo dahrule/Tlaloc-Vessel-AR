@@ -1,0 +1,17 @@
+{
+    "1682218046376740:36213": {
+        "IResourceController": {
+            "name": "RIGHT_ARM_01_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698943535:531048"
+        },
+        "IResourceManager": {
+            "uid": "1537561698943535:531048",
+            "name": "/Resources/Resource2003",
+            "flags": 20
+        }
+    }
+}

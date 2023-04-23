@@ -1,0 +1,33 @@
+{
+    "1682218046376725:36171": {
+        "IResourceController": {
+            "name": "TweenAlpha",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536976031084595:1671805",
+            "fileId": "1682218046377400:36888",
+            "publicId": "1682218046378841:38170",
+            "expected_hash": "f8e4cbb0fbfa3d4139c98bed9e23ec3f"
+        },
+        "IResourceManager": {
+            "uid": "1536976031084595:1671805",
+            "name": "/Resources/Resource1951.js",
+            "flags": 1
+        }
+    },
+    "1682218046377400:36888": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377400_36888.js"
+        }
+    },
+    "1682218046378841:38170": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenAlpha.js",
+                "hash": "f8e4cbb0fbfa3d4139c98bed9e23ec3f"
+            }
+        }
+    }
+}

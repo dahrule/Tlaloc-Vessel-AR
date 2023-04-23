@@ -1,0 +1,17 @@
+{
+    "1682218046376806:36418": {
+        "IResourceController": {
+            "name": "Text To Speech Module",
+            "type": 35,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645064714324865:382461"
+        },
+        "IResourceManager": {
+            "uid": "1645064714324865:382461",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

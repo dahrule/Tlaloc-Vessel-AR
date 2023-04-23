@@ -1,0 +1,20 @@
+{
+    "1682218046378652:37775": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/DoorOpen/Textures"
+            }
+        }
+    },
+    "1682218046379370:38545": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378652:37775",
+            "resources": []
+        }
+    }
+}

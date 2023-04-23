@@ -1,0 +1,79 @@
+{
+    "1646032491966414:11863481": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6bcdc0628306b4770a0f4aeddee878d1"
+                    },
+                    "v": "1682218046378526:37735"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5000",
+                "compressedSize": "2141",
+                "extension": "png",
+                "originalRAM": "40000",
+                "originalSize": "6418",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046378525:37734"
+        }
+    },
+    "1682218046376818:36485": {
+        "IResourceController": {
+            "name": "Pictograms_house",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646032491966414:11863481",
+            "fileId": "1682218046378522:37732",
+            "originalId": "1682218046378523:37733",
+            "publicId": "1682218046378930:38429",
+            "expected_hash": "e7447fca72011a31c32be210555d72a1",
+            "additional": {
+                "originHash": "6bcdc0628306b4770a0f4aeddee878d1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646032491966414:11863481",
+            "name": "Files/File1436.png",
+            "flags": 1
+        }
+    },
+    "1682218046378522:37732": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378522_37732.pvr"
+        }
+    },
+    "1682218046378523:37733": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378523_37733.png"
+        }
+    },
+    "1682218046378525:37734": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378525_37734.png"
+        }
+    },
+    "1682218046378526:37735": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378526_37735.pvr"
+        }
+    },
+    "1682218046378930:38429": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/Pictograms_house.png",
+                "hash": "6bcdc0628306b4770a0f4aeddee878d1"
+            }
+        }
+    }
+}

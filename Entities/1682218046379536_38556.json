@@ -1,0 +1,23 @@
+{
+    "1682218046378779:37986": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Magic/Materials"
+            }
+        }
+    },
+    "1682218046379536:38556": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378779:37986",
+            "resources": [
+                "1682218046376718:36150",
+                "1682218046376757:36267"
+            ]
+        }
+    }
+}

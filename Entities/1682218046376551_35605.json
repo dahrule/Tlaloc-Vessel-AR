@@ -1,0 +1,88 @@
+{
+    "1536086646485542:31882": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1224",
+                "compressedSize": "694",
+                "extension": "mesh",
+                "originalRAM": "1224",
+                "originalSize": "694",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046377845:37210"
+        }
+    },
+    "1682218046376551:35605": {
+        "IResourceController": {
+            "name": "Door_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536086646485542:31882",
+            "fileId": "1682218046376849:36507",
+            "publicId": "1682218046378655:37781",
+            "expected_hash": "2af9a3cd6c416b4bab7694188f9e734d"
+        },
+        "IResourceManager": {
+            "uid": "1536086646485542:31882",
+            "name": "/Resources/Resource39.mesh",
+            "flags": 21
+        }
+    },
+    "1682218046376849:36507": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376849_36507.mesh"
+        }
+    },
+    "1682218046377845:37210": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377845_37210.mesh"
+        }
+    },
+    "1682218046378655:37781": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/DoorOpen/Meshes/Door_L.mesh",
+                "hash": "2af9a3cd6c416b4bab7694188f9e734d"
+            }
+        }
+    }
+}

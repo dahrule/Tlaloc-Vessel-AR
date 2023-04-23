@@ -1,0 +1,42 @@
+{
+    "1682218046376757:36267": {
+        "IResourceController": {
+            "name": "Side",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623372468080711:6075532",
+            "fileId": "1682218046377589:37002",
+            "originalId": "1682218046377590:37003",
+            "publicId": "1682218046378856:38217",
+            "expected_hash": "a53b2b70f3a2b75de9b8fac86ec85289",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623372468080711:6075532",
+            "name": "Files/File_1682218046377589_37002",
+            "flags": 1
+        }
+    },
+    "1682218046377589:37002": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377589_37002"
+        }
+    },
+    "1682218046377590:37003": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377590_37003.lsmat"
+        }
+    },
+    "1682218046378856:38217": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Magic/Materials/Side.lsmat",
+                "hash": "d2bd2cdd126638324d47642db56dc9cc"
+            }
+        }
+    }
+}

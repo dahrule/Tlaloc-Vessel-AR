@@ -1,0 +1,22 @@
+{
+    "1682218046378835:38154": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Textures"
+            }
+        }
+    },
+    "1682218046379705:38560": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378835:38154",
+            "resources": [
+                "1682218046376720:36154"
+            ]
+        }
+    }
+}

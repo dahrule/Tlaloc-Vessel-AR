@@ -1,0 +1,39 @@
+{
+    "1682218046376552:35609": {
+        "IResourceController": {
+            "name": "Mat",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536086646488533:31937",
+            "fileId": "1682218046376853:36509",
+            "originalId": "1682218046377515:36949",
+            "publicId": "1682218046378653:37777",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1536086646488533:31937",
+            "name": "/Resources/Resource43",
+            "flags": 5
+        }
+    },
+    "1682218046376853:36509": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376853_36509"
+        }
+    },
+    "1682218046377515:36949": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377515_36949.lsmat"
+        }
+    },
+    "1682218046378653:37777": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/DoorOpen/Materials/Mat.lsmat",
+                "hash": "196f7c9fb463e872d126372ae8d43e98"
+            }
+        }
+    }
+}

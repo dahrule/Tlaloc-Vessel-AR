@@ -1,0 +1,17 @@
+{
+    "1682218046376719:36151": {
+        "IResourceController": {
+            "name": "Magic",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536272373205954:315919"
+        },
+        "IResourceManager": {
+            "uid": "1536272373205954:315919",
+            "name": "/Resources/Resource1803",
+            "flags": 16
+        }
+    }
+}

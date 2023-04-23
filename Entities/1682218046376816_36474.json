@@ -1,0 +1,79 @@
+{
+    "1645737963126098:8362134": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "77fb9e5a523b65bebd020b0a3ca1657c"
+                    },
+                    "v": "1682218046378498:37713"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "25992",
+                "compressedSize": "3217",
+                "extension": "png",
+                "originalRAM": "202500",
+                "originalSize": "2661",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046378496:37712"
+        }
+    },
+    "1682218046376816:36474": {
+        "IResourceController": {
+            "name": "RainyBlueCloud",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645737963126098:8362134",
+            "fileId": "1682218046378494:37710",
+            "originalId": "1682218046378495:37711",
+            "publicId": "1682218046378926:38418",
+            "expected_hash": "42c7425f29ac52fd5ccb7ccb4e9ed7c8",
+            "additional": {
+                "originHash": "77fb9e5a523b65bebd020b0a3ca1657c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1645737963126098:8362134",
+            "name": "Files/File1407.png",
+            "flags": 1
+        }
+    },
+    "1682218046378494:37710": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378494_37710.pvr"
+        }
+    },
+    "1682218046378495:37711": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378495_37711.png"
+        }
+    },
+    "1682218046378496:37712": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378496_37712.png"
+        }
+    },
+    "1682218046378498:37713": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378498_37713.pvr"
+        }
+    },
+    "1682218046378926:38418": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/RainyBlueCloud.png",
+                "hash": "77fb9e5a523b65bebd020b0a3ca1657c"
+            }
+        }
+    }
+}

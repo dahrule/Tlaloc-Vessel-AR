@@ -1,0 +1,33 @@
+{
+    "1682218046376817:36479": {
+        "IResourceController": {
+            "name": "InfoSection4_IncorrectAnswer",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645744631578425:13747326",
+            "fileId": "1682218046378504:37718",
+            "publicId": "1682218046378928:38423",
+            "expected_hash": "f6c19749074322ba3b42ab34d6973371"
+        },
+        "IResourceManager": {
+            "uid": "1645744631578425:13747326",
+            "name": "Files/File_1682218046378504_37718.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378504:37718": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378504_37718.mp3"
+        }
+    },
+    "1682218046378928:38423": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/InfoSection4_IncorrectAnswer.mp3",
+                "hash": "f6c19749074322ba3b42ab34d6973371"
+            }
+        }
+    }
+}

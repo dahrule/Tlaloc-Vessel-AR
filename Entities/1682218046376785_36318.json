@@ -1,0 +1,33 @@
+{
+    "1682218046376785:36318": {
+        "IResourceController": {
+            "name": "ExponentialFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443372265:123039",
+            "fileId": "1682218046377684:37079",
+            "publicId": "1682218046378878:38282",
+            "expected_hash": "aa1599fc32f22af7d8bbd848ca07831f"
+        },
+        "IResourceManager": {
+            "uid": "1643762443372265:123039",
+            "name": "Files/File_1682218046377684_37079.js",
+            "flags": 1
+        }
+    },
+    "1682218046377684:37079": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377684_37079.js"
+        }
+    },
+    "1682218046378878:38282": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/EasingFuncs/ExponentialFunc.js",
+                "hash": "aa1599fc32f22af7d8bbd848ca07831f"
+            }
+        }
+    }
+}

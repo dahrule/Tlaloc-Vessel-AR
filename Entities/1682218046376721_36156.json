@@ -1,0 +1,33 @@
+{
+    "1682218046376721:36156": {
+        "IResourceController": {
+            "name": "MeshFadeController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536343916393525:600861",
+            "fileId": "1682218046377382:36875",
+            "publicId": "1682218046378850:38202",
+            "expected_hash": "275161e2ab5a8cfe5550c7944e83862d"
+        },
+        "IResourceManager": {
+            "uid": "1536343916393525:600861",
+            "name": "/Resources/Resource1891.js",
+            "flags": 1
+        }
+    },
+    "1682218046377382:36875": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377382_36875.js"
+        }
+    },
+    "1682218046378850:38202": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MeshFadeController.js",
+                "hash": "275161e2ab5a8cfe5550c7944e83862d"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682218046376798:36378": {
+        "IResourceController": {
+            "name": "Tap To Trigger Animation",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444102256:123606",
+            "fileId": "1682218046377771:37151",
+            "originalId": "1682218046377769:37150",
+            "publicId": "1682218046378897:38337",
+            "expected_hash": "dadaa2ed9a2939a08c4410036c2ecd4f"
+        },
+        "IResourceManager": {
+            "uid": "1643762444102256:123606",
+            "name": "Files/File_1682218046377771_37151",
+            "flags": 1
+        }
+    },
+    "1682218046377769:37150": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377769_37150.lsscript"
+        }
+    },
+    "1682218046377771:37151": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377771_37151"
+        }
+    },
+    "1682218046378897:38337": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap To Trigger Animation.lsscript",
+                "hash": "8ffed0f1118e2136eac8b2a834aa47ac"
+            }
+        }
+    }
+}

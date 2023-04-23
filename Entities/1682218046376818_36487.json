@@ -1,0 +1,33 @@
+{
+    "1682218046376818:36487": {
+        "IResourceController": {
+            "name": "Rain_short",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646109207384957:444030",
+            "fileId": "1682218046378532:37740",
+            "publicId": "1682218046378930:38431",
+            "expected_hash": "404a9119976844a87755a5b7a865d7ce"
+        },
+        "IResourceManager": {
+            "uid": "1646109207384957:444030",
+            "name": "Files/File_1682218046378532_37740.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378532:37740": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378532_37740.mp3"
+        }
+    },
+    "1682218046378930:38431": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/Rain_short.mp3",
+                "hash": "404a9119976844a87755a5b7a865d7ce"
+            }
+        }
+    }
+}

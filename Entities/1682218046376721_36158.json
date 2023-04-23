@@ -1,0 +1,33 @@
+{
+    "1682218046376721:36158": {
+        "IResourceController": {
+            "name": "CrossController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536787689627704:90533",
+            "fileId": "1682218046377385:36877",
+            "publicId": "1682218046378843:38180",
+            "expected_hash": "57fe51b9a63c1dc81513c8d2d8f985ef"
+        },
+        "IResourceManager": {
+            "uid": "1536787689627704:90533",
+            "name": "/Resources/Resource1896.js",
+            "flags": 1
+        }
+    },
+    "1682218046377385:36877": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377385_36877.js"
+        }
+    },
+    "1682218046378843:38180": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint/Scripts/CrossController.js",
+                "hash": "57fe51b9a63c1dc81513c8d2d8f985ef"
+            }
+        }
+    }
+}

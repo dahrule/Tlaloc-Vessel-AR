@@ -1,0 +1,33 @@
+{
+    "1682218046376807:36422": {
+        "IResourceController": {
+            "name": "TextReader",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645076252967267:159434",
+            "fileId": "1682218046378348:37600",
+            "publicId": "1682218046378910:38374",
+            "expected_hash": "66748ab08627f22a4b2d5373cd083912"
+        },
+        "IResourceManager": {
+            "uid": "1645076252967267:159434",
+            "name": "Files/File_1682218046378348_37600.js",
+            "flags": 1
+        }
+    },
+    "1682218046378348:37600": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378348_37600.js"
+        }
+    },
+    "1682218046378910:38374": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/TextReader.js",
+                "hash": "66748ab08627f22a4b2d5373cd083912"
+            }
+        }
+    }
+}

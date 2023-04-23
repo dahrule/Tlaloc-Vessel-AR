@@ -1,0 +1,39 @@
+{
+    "1682218046376764:36295": {
+        "IResourceController": {
+            "name": "VolumeController",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643750691544131:104654",
+            "fileId": "1682218046377652:37054",
+            "originalId": "1682218046377653:37055",
+            "publicId": "1682218046378867:38254",
+            "expected_hash": "c7c8bb5c893fdc8be05f6f8b007b0f47"
+        },
+        "IResourceManager": {
+            "uid": "1643750691544131:104654",
+            "name": "Files/File_1682218046377652_37054",
+            "flags": 1
+        }
+    },
+    "1682218046377652:37054": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377652_37054"
+        }
+    },
+    "1682218046377653:37055": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377653_37055.lsscript"
+        }
+    },
+    "1682218046378867:38254": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/VolumeController.lsscript",
+                "hash": "34ccaab5a4d1d26dfc60f8965eb2aa34"
+            }
+        }
+    }
+}

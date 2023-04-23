@@ -1,0 +1,33 @@
+{
+    "1682218046376549:35597": {
+        "IResourceController": {
+            "name": "DoorController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1535675270111863:4545",
+            "fileId": "1682218046376822:36499",
+            "publicId": "1682218046378849:38199",
+            "expected_hash": "b419a60f20a34402109f8be979d309a2"
+        },
+        "IResourceManager": {
+            "uid": "1535675270111863:4545",
+            "name": "/Resources/Resource17.js",
+            "flags": 1
+        }
+    },
+    "1682218046376822:36499": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376822_36499.js"
+        }
+    },
+    "1682218046378849:38199": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/EffectControllers/DoorController.js",
+                "hash": "b419a60f20a34402109f8be979d309a2"
+            }
+        }
+    }
+}

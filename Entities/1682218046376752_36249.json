@@ -1,0 +1,17 @@
+{
+    "1682218046376752:36249": {
+        "IResourceController": {
+            "name": "MarkFinal",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561700202632:533422"
+        },
+        "IResourceManager": {
+            "uid": "1537561700202632:533422",
+            "name": "/Resources/Resource2044",
+            "flags": 16
+        }
+    }
+}

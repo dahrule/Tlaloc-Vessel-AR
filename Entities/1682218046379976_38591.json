@@ -1,0 +1,25 @@
+{
+    "1682218046378872:38268": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Basic Tweens",
+                "hash": "5dfa83c75420a7d363756486b80dd647"
+            }
+        }
+    },
+    "1682218046379976:38591": {
+        "IResourceController": {
+            "name": "Basic Tweens",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378872:38268",
+            "resources": [
+                "1682218046376783:36307",
+                "1682218046376783:36308",
+                "1682218046376783:36309"
+            ]
+        }
+    }
+}

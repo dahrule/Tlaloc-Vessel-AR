@@ -1,0 +1,30 @@
+{
+    "1682218046376820:36497": {
+        "IResourceController": {
+            "name": "TlalocVessel_lowpoly",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1646187573754779:826128",
+            "fileId": "1682218046378551:37756",
+            "originalId": "1682218046378558:37761",
+            "expected_hash": "7189600ae5ddd3fa2a17fb764af6eafd"
+        },
+        "IResourceManager": {
+            "uid": "1646187573754779:826128",
+            "name": "TlalocVessel_lowpoly",
+            "flags": 0
+        }
+    },
+    "1682218046378551:37756": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378551_37756.oprfb"
+        }
+    },
+    "1682218046378558:37761": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378558_37761.oprfb"
+        }
+    }
+}

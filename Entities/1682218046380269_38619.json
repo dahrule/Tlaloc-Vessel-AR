@@ -1,0 +1,24 @@
+{
+    "1682218046378932:38436": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/TlalocVessel_lowpoly/Materials0"
+            }
+        }
+    },
+    "1682218046380269:38619": {
+        "IResourceController": {
+            "name": "Materials0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378932:38436",
+            "resources": [
+                "1682218046376820:36494",
+                "1682218046376820:36495",
+                "1682218046376820:36496"
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376553:35613": {
+        "IResourceController": {
+            "name": "ExplosionController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536171763288976:5105",
+            "fileId": "1682218046376855:36511",
+            "publicId": "1682218046378849:38200",
+            "expected_hash": "d0f5b8210bb883d1c679376e77e2c6ad"
+        },
+        "IResourceManager": {
+            "uid": "1536171763288976:5105",
+            "name": "/Resources/Resource56.js",
+            "flags": 1
+        }
+    },
+    "1682218046376855:36511": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376855_36511.js"
+        }
+    },
+    "1682218046378849:38200": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/EffectControllers/ExplosionController.js",
+                "hash": "d0f5b8210bb883d1c679376e77e2c6ad"
+            }
+        }
+    }
+}

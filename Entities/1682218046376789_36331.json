@@ -1,0 +1,33 @@
+{
+    "1682218046376789:36331": {
+        "IResourceController": {
+            "name": "TweenSetRepeat",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443448613:123138",
+            "fileId": "1682218046377699:37092",
+            "publicId": "1682218046378882:38297",
+            "expected_hash": "05902e34c3438b4430c9255fcf942cb0"
+        },
+        "IResourceManager": {
+            "uid": "1643762443448613:123138",
+            "name": "Files/File_1682218046377699_37092.js",
+            "flags": 1
+        }
+    },
+    "1682218046377699:37092": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377699_37092.js"
+        }
+    },
+    "1682218046378882:38297": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Modifiers/TweenSetRepeat.js",
+                "hash": "05902e34c3438b4430c9255fcf942cb0"
+            }
+        }
+    }
+}

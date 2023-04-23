@@ -1,0 +1,66 @@
+{
+    "1644045926979934:2934863": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "7261",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "7261",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682218046377831:37199"
+        }
+    },
+    "1682218046376802:36403": {
+        "IResourceController": {
+            "name": "Particles Texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644045926979934:2934863",
+            "fileId": "1682218046377829:37197",
+            "originalId": "1682218046377830:37198",
+            "publicId": "1682218046378905:38358",
+            "expected_hash": "633e6164fd04c2de5d7f0ed88b3dd76d",
+            "additional": {
+                "originHash": "633e6164fd04c2de5d7f0ed88b3dd76d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644045926979934:2934863",
+            "name": "Files/File_1682218046377829_37197.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046377829:37197": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377829_37197.jpg"
+        }
+    },
+    "1682218046377830:37198": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377830_37198.jpg"
+        }
+    },
+    "1682218046377831:37199": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377831_37199.jpg"
+        }
+    },
+    "1682218046378905:38358": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Particles Texture.jpg",
+                "hash": "633e6164fd04c2de5d7f0ed88b3dd76d"
+            }
+        }
+    }
+}

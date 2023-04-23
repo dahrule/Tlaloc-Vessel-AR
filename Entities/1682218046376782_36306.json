@@ -1,0 +1,33 @@
+{
+    "1682218046376782:36306": {
+        "IResourceController": {
+            "name": "RaycastToPlane",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443289213:122943",
+            "fileId": "1682218046377668:37067",
+            "publicId": "1682218046378871:38266",
+            "expected_hash": "a59c157093498bc2ef60a885f2608981"
+        },
+        "IResourceManager": {
+            "uid": "1643762443289213:122943",
+            "name": "Files/File_1682218046377668_37067.js",
+            "flags": 1
+        }
+    },
+    "1682218046377668:37067": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377668_37067.js"
+        }
+    },
+    "1682218046378871:38266": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/RaycastToPlane.js",
+                "hash": "a59c157093498bc2ef60a885f2608981"
+            }
+        }
+    }
+}

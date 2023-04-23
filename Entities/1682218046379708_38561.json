@@ -1,0 +1,24 @@
+{
+    "1682218046378836:38156": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Materials"
+            }
+        }
+    },
+    "1682218046379708:38561": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378836:38156",
+            "resources": [
+                "1682218046376721:36155",
+                "1682218046376757:36268",
+                "1682218046376815:36467"
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682218046376782:36304": {
+        "IResourceController": {
+            "name": "DelayedCallback",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443278532:122929",
+            "fileId": "1682218046377665:37065",
+            "publicId": "1682218046378871:38264",
+            "expected_hash": "55ae5544200bec0a65b22d7a69cdc72f"
+        },
+        "IResourceManager": {
+            "uid": "1643762443278532:122929",
+            "name": "Files/File_1682218046377665_37065.js",
+            "flags": 1
+        }
+    },
+    "1682218046377665:37065": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377665_37065.js"
+        }
+    },
+    "1682218046378871:38264": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/DelayedCallback.js",
+                "hash": "55ae5544200bec0a65b22d7a69cdc72f"
+            }
+        }
+    }
+}

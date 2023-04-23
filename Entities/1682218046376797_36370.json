@@ -1,0 +1,39 @@
+{
+    "1682218046376797:36370": {
+        "IResourceController": {
+            "name": "Tap to Cycle SceneObjects",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443945991:123530",
+            "fileId": "1682218046377756:37139",
+            "originalId": "1682218046377754:37138",
+            "publicId": "1682218046378895:38333",
+            "expected_hash": "da8977f70a1e32c3885ddf73dec37511"
+        },
+        "IResourceManager": {
+            "uid": "1643762443945991:123530",
+            "name": "Files/File_1682218046377756_37139",
+            "flags": 1
+        }
+    },
+    "1682218046377754:37138": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377754_37138.lsscript"
+        }
+    },
+    "1682218046377756:37139": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377756_37139"
+        }
+    },
+    "1682218046378895:38333": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Tap to Cycle SceneObjects.lsscript",
+                "hash": "fa828eb3a1f03b63bc2dea97af6e904f"
+            }
+        }
+    }
+}

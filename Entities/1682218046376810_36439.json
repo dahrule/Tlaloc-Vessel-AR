@@ -1,0 +1,39 @@
+{
+    "1682218046376810:36439": {
+        "IResourceController": {
+            "name": "Sand 2",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144611020688:770969",
+            "fileId": "1682218046378381:37624",
+            "originalId": "1682218046378382:37625",
+            "publicId": "1682218046378913:38384",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144611020688:770969",
+            "name": "Files/File_1682218046378381_37624",
+            "flags": 1
+        }
+    },
+    "1682218046378381:37624": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378381_37624"
+        }
+    },
+    "1682218046378382:37625": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378382_37625.lsmat"
+        }
+    },
+    "1682218046378913:38384": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Sand 2.lsmat",
+                "hash": "c581f59dee1a3b0555749515b4d4bcd8"
+            }
+        }
+    }
+}

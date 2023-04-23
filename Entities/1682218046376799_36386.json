@@ -1,0 +1,39 @@
+{
+    "1682218046376799:36386": {
+        "IResourceController": {
+            "name": "Tween Sequence",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762444252124:123703",
+            "fileId": "1682218046377786:37163",
+            "originalId": "1682218046377784:37162",
+            "publicId": "1682218046378899:38342",
+            "expected_hash": "2b41e47ede2aa9a0ecd0f38fada23db3"
+        },
+        "IResourceManager": {
+            "uid": "1643762444252124:123703",
+            "name": "Files/File_1682218046377786_37163",
+            "flags": 1
+        }
+    },
+    "1682218046377784:37162": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377784_37162.lsscript"
+        }
+    },
+    "1682218046377786:37163": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377786_37163"
+        }
+    },
+    "1682218046378899:38342": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween Script Graphs/Tween Sequence.lsscript",
+                "hash": "639a94c3057718f73ea2d02d9ee7be7c"
+            }
+        }
+    }
+}

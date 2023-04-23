@@ -1,0 +1,39 @@
+{
+    "1682218046376763:36291": {
+        "IResourceController": {
+            "name": "Popup Fill",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643744672081661:2396257",
+            "fileId": "1682218046377644:37047",
+            "originalId": "1682218046377645:37048",
+            "publicId": "1682218046378865:38247",
+            "expected_hash": "ed0073fbe2a9ff2fe8c3140f9d4b77af"
+        },
+        "IResourceManager": {
+            "uid": "1643744672081661:2396257",
+            "name": "Files/File_1682218046377644_37047",
+            "flags": 1
+        }
+    },
+    "1682218046377644:37047": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377644_37047"
+        }
+    },
+    "1682218046377645:37048": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377645_37048.lsmat"
+        }
+    },
+    "1682218046378865:38247": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Materials/Popup Fill.lsmat",
+                "hash": "226d57f3100234c318d1bfc303836710"
+            }
+        }
+    }
+}

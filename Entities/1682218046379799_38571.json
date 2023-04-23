@@ -1,0 +1,40 @@
+{
+    "1682218046377815:37186": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377815_37186.fbx"
+        }
+    },
+    "1682218046378901:38348": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/low_poly_cloud.fbx",
+                "hash": "806d07a1ea71221951d63fe50a008d76"
+            }
+        }
+    },
+    "1682218046379799:38571": {
+        "IResourceController": {
+            "name": "low_poly_cloud",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682218046377815:37186",
+            "publicId": "1682218046378901:38348",
+            "expected_hash": "806d07a1ea71221951d63fe50a008d76",
+            "resources": [
+                "1682218046379797:38569",
+                "1682218046379798:38570",
+                "1682218046376800:36397"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Scene_-_Root",
+                        "v": "1643904795872918:190096"
+                    }
+                ]
+            }
+        }
+    }
+}

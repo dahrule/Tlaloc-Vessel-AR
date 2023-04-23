@@ -1,0 +1,33 @@
+{
+    "1682218046376723:36166": {
+        "IResourceController": {
+            "name": "MarkerController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536858644786421:103538",
+            "fileId": "1682218046377395:36885",
+            "publicId": "1682218046378851:38204",
+            "expected_hash": "977ca6f0ba0451a284645f95606c9b64"
+        },
+        "IResourceManager": {
+            "uid": "1536858644786421:103538",
+            "name": "/Resources/Resource1909.js",
+            "flags": 1
+        }
+    },
+    "1682218046377395:36885": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377395_36885.js"
+        }
+    },
+    "1682218046378851:38204": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MarkerController.js",
+                "hash": "977ca6f0ba0451a284645f95606c9b64"
+            }
+        }
+    }
+}

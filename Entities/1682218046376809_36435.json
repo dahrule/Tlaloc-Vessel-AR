@@ -1,0 +1,39 @@
+{
+    "1682218046376809:36435": {
+        "IResourceController": {
+            "name": "Red",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645144603891437:770848",
+            "fileId": "1682218046378371:37616",
+            "originalId": "1682218046378372:37617",
+            "publicId": "1682218046378912:38380",
+            "expected_hash": "44c7a1893c39c0ed342de54f9d118549"
+        },
+        "IResourceManager": {
+            "uid": "1645144603891437:770848",
+            "name": "Files/File_1682218046378371_37616",
+            "flags": 1
+        }
+    },
+    "1682218046378371:37616": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378371_37616"
+        }
+    },
+    "1682218046378372:37617": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378372_37617.lsmat"
+        }
+    },
+    "1682218046378912:38380": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/TemploMayor/Materials/Red.lsmat",
+                "hash": "f1d48e597b7bc88b915175f54e8590a0"
+            }
+        }
+    }
+}

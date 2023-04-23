@@ -1,0 +1,79 @@
+{
+    "1643795498138217:1593331": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a476a32734f6e5ab4f40a0e699b7fb30"
+                    },
+                    "v": "1682218046377807:37180"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "472360",
+                "compressedSize": "21623",
+                "extension": "png",
+                "originalRAM": "3771040",
+                "originalSize": "27495",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046377806:37179"
+        }
+    },
+    "1682218046376800:36394": {
+        "IResourceController": {
+            "name": "sound_icon2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643795498138217:1593331",
+            "fileId": "1682218046377803:37177",
+            "originalId": "1682218046377804:37178",
+            "publicId": "1682218046378901:38347",
+            "expected_hash": "3cbc1a907f442be9536fca5595f1f59f",
+            "additional": {
+                "originHash": "a476a32734f6e5ab4f40a0e699b7fb30"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643795498138217:1593331",
+            "name": "Files/File811.png",
+            "flags": 1
+        }
+    },
+    "1682218046377803:37177": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377803_37177.pvr"
+        }
+    },
+    "1682218046377804:37178": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377804_37178.png"
+        }
+    },
+    "1682218046377806:37179": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377806_37179.png"
+        }
+    },
+    "1682218046377807:37180": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377807_37180.pvr"
+        }
+    },
+    "1682218046378901:38347": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/sound_icon2.png",
+                "hash": "a476a32734f6e5ab4f40a0e699b7fb30"
+            }
+        }
+    }
+}

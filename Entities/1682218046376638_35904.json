@@ -1,0 +1,39 @@
+{
+    "1682218046376638:35904": {
+        "IResourceController": {
+            "name": "Thickness",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536261203454130:253191",
+            "fileId": "1682218046377113:36706",
+            "originalId": "1682218046377516:36950",
+            "publicId": "1682218046378656:37787",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1536261203454130:253191",
+            "name": "/Resources/Resource811",
+            "flags": 5
+        }
+    },
+    "1682218046377113:36706": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377113_36706"
+        }
+    },
+    "1682218046377516:36950": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377516_36950.lsmat"
+        }
+    },
+    "1682218046378656:37787": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Explode/Materials/Thickness.lsmat",
+                "hash": "ccd0c2c818959b90845b2f746cd53631"
+            }
+        }
+    }
+}

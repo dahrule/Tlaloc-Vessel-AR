@@ -1,0 +1,44 @@
+{
+    "1682218046377617:37025": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377617_37025.fbx"
+        }
+    },
+    "1682218046378858:38223": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/TlalocVessel2.fbx",
+                "hash": "e9f8f9311e153426cc86caa8ad50c14a"
+            }
+        }
+    },
+    "1682218046379793:38568": {
+        "IResourceController": {
+            "name": "TlalocVessel2",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682218046377617:37025",
+            "publicId": "1682218046378858:38223",
+            "expected_hash": "e9f8f9311e153426cc86caa8ad50c14a",
+            "resources": [
+                "1682218046379791:38566",
+                "1682218046379793:38567",
+                "1682218046376758:36277"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1643738279033299:852138"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1643738279179561:852159"
+                    }
+                ]
+            }
+        }
+    }
+}

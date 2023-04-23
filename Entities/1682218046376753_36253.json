@@ -1,0 +1,17 @@
+{
+    "1682218046376753:36253": {
+        "IResourceController": {
+            "name": "DoorOpenEffect [PLACE_UNDER_MARKER_TRACKING]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1539727460289755:1928056"
+        },
+        "IResourceManager": {
+            "uid": "1539727460289755:1928056",
+            "name": "/Resources/Resource2062",
+            "flags": 0
+        }
+    }
+}

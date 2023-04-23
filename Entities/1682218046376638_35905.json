@@ -1,0 +1,17 @@
+{
+    "1682218046376638:35905": {
+        "IResourceController": {
+            "name": "Explode",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536261203516535:254667"
+        },
+        "IResourceManager": {
+            "uid": "1536261203516535:254667",
+            "name": "/Resources/Resource812",
+            "flags": 16
+        }
+    }
+}

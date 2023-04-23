@@ -1,0 +1,33 @@
+{
+    "1682218046376819:36489": {
+        "IResourceController": {
+            "name": "320181__dland__hint_01",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646110690165117:2722317",
+            "fileId": "1682218046378535:37742",
+            "publicId": "1682218046378931:38433",
+            "expected_hash": "a41f6ea89402a58476db1361acd88be1"
+        },
+        "IResourceManager": {
+            "uid": "1646110690165117:2722317",
+            "name": "Files/File_1682218046378535_37742.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378535:37742": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378535_37742.mp3"
+        }
+    },
+    "1682218046378931:38433": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/320181__dland__hint_01.mp3",
+                "hash": "a41f6ea89402a58476db1361acd88be1"
+            }
+        }
+    }
+}

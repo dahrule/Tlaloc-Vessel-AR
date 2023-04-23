@@ -1,0 +1,17 @@
+{
+    "1682218046376744:36228": {
+        "IResourceController": {
+            "name": "RIGHT_FINGER_02_04_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698962868:531124"
+        },
+        "IResourceManager": {
+            "uid": "1537561698962868:531124",
+            "name": "/Resources/Resource2018",
+            "flags": 20
+        }
+    }
+}

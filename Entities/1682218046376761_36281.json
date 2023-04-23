@@ -1,0 +1,33 @@
+{
+    "1682218046376761:36281": {
+        "IResourceController": {
+            "name": "UIColorPicker",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643744671715275:2396101",
+            "fileId": "1682218046377623:37030",
+            "publicId": "1682218046378862:38233",
+            "expected_hash": "e21303f8d3720184fd4f1173d4455e2c"
+        },
+        "IResourceManager": {
+            "uid": "1643744671715275:2396101",
+            "name": "Files/File_1682218046377623_37030.js",
+            "flags": 1
+        }
+    },
+    "1682218046377623:37030": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377623_37030.js"
+        }
+    },
+    "1682218046378862:38233": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Scripts/UIColorPicker.js",
+                "hash": "e21303f8d3720184fd4f1173d4455e2c"
+            }
+        }
+    }
+}

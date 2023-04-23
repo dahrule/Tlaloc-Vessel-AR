@@ -1,0 +1,33 @@
+{
+    "1682218046376790:36339": {
+        "IResourceController": {
+            "name": "TweenRotFromToEuler",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443496476:123198",
+            "fileId": "1682218046377709:37100",
+            "publicId": "1682218046378886:38307",
+            "expected_hash": "b0a261685c5e6245c8ae22f27f4c903c"
+        },
+        "IResourceManager": {
+            "uid": "1643762443496476:123198",
+            "name": "Files/File_1682218046377709_37100.js",
+            "flags": 1
+        }
+    },
+    "1682218046377709:37100": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377709_37100.js"
+        }
+    },
+    "1682218046378886:38307": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Node Scripts/Tween Nodes/Rotation/TweenRotFromToEuler.js",
+                "hash": "b0a261685c5e6245c8ae22f27f4c903c"
+            }
+        }
+    }
+}

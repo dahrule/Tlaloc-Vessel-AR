@@ -1,0 +1,22 @@
+{
+    "1682218046378840:38166": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Mark/Sound"
+            }
+        }
+    },
+    "1682218046379784:38564": {
+        "IResourceController": {
+            "name": "Sound",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378840:38166",
+            "resources": [
+                "1682218046376752:36250"
+            ]
+        }
+    }
+}

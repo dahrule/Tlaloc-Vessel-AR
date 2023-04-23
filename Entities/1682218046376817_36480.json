@@ -1,0 +1,33 @@
+{
+    "1682218046376817:36480": {
+        "IResourceController": {
+            "name": "InfoSection1_Location",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645756316891569:4335471",
+            "fileId": "1682218046378505:37719",
+            "publicId": "1682218046378928:38424",
+            "expected_hash": "4f2f25f63a6b1ac5e5a27cd49b8f130e"
+        },
+        "IResourceManager": {
+            "uid": "1645756316891569:4335471",
+            "name": "Files/File_1682218046378505_37719.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378505:37719": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378505_37719.mp3"
+        }
+    },
+    "1682218046378928:38424": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/InfoSection1_Location.mp3",
+                "hash": "4f2f25f63a6b1ac5e5a27cd49b8f130e"
+            }
+        }
+    }
+}

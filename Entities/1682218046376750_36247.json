@@ -1,0 +1,17 @@
+{
+    "1682218046376750:36247": {
+        "IResourceController": {
+            "name": "RIGHT_ELBOW_02_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1537561698948189:531066"
+        },
+        "IResourceManager": {
+            "uid": "1537561698948189:531066",
+            "name": "/Resources/Resource2037",
+            "flags": 20
+        }
+    }
+}

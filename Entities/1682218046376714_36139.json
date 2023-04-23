@@ -1,0 +1,17 @@
+{
+    "1682218046376714:36139": {
+        "IResourceController": {
+            "name": "Cube8",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536272372905978:310621"
+        },
+        "IResourceManager": {
+            "uid": "1536272372905978:310621",
+            "name": "/Resources/Resource1790",
+            "flags": 20
+        }
+    }
+}

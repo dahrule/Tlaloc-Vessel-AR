@@ -1,0 +1,39 @@
+{
+    "1682218046376551:35602": {
+        "IResourceController": {
+            "name": "inside",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536084499181324:18279",
+            "fileId": "1682218046376845:36504",
+            "originalId": "1682218046377512:36947",
+            "publicId": "1682218046378649:37766",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1536084499181324:18279",
+            "name": "/Resources/Resource36",
+            "flags": 1
+        }
+    },
+    "1682218046376845:36504": {
+        "IFileManager": {
+            "path": "Files/File_1682218046376845_36504"
+        }
+    },
+    "1682218046377512:36947": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377512_36947.lsmat"
+        }
+    },
+    "1682218046378649:37766": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/inside.lsmat",
+                "hash": "d4968a7024272c1c5052bc1114bd4f83"
+            }
+        }
+    }
+}

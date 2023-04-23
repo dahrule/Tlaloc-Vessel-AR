@@ -1,0 +1,39 @@
+{
+    "1682218046376794:36356": {
+        "IResourceController": {
+            "name": "Count Open Mouth And Save",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443631995:123337",
+            "fileId": "1682218046377731:37118",
+            "originalId": "1682218046377730:37117",
+            "publicId": "1682218046378893:38326",
+            "expected_hash": "45f31e75a513f4e9bd2ac3095c57573b"
+        },
+        "IResourceManager": {
+            "uid": "1643762443631995:123337",
+            "name": "Files/File_1682218046377731_37118",
+            "flags": 1
+        }
+    },
+    "1682218046377730:37117": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377730_37117.lsscript"
+        }
+    },
+    "1682218046377731:37118": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377731_37118"
+        }
+    },
+    "1682218046378893:38326": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Count Open Mouth And Save.lsscript",
+                "hash": "68f931d6251cd0d327c3cc0d2b152d26"
+            }
+        }
+    }
+}

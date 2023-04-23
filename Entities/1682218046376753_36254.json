@@ -1,0 +1,17 @@
+{
+    "1682218046376753:36254": {
+        "IResourceController": {
+            "name": "ExplosionEffect [PLACE_UNDER_MARKER_TRACKING]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1539727490850977:1991116"
+        },
+        "IResourceManager": {
+            "uid": "1539727490850977:1991116",
+            "name": "/Resources/Resource2063",
+            "flags": 0
+        }
+    }
+}

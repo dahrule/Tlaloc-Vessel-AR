@@ -1,0 +1,24 @@
+{
+    "1682218046378843:38178": {
+        "IResourceController": {
+            "public": {
+                "path": "Cross Hint"
+            }
+        }
+    },
+    "1682218046379942:38582": {
+        "IResourceController": {
+            "name": "Cross Hint",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682218046378843:38178",
+            "resources": [
+                "1682218046379933:38579",
+                "1682218046379936:38580",
+                "1682218046379941:38581"
+            ]
+        }
+    }
+}

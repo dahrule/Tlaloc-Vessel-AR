@@ -1,0 +1,79 @@
+{
+    "1646032166485075:11607489": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f9a71b2abb3bf72e2bcc237adab8c3e2"
+                    },
+                    "v": "1682218046378520:37731"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5000",
+                "compressedSize": "2053",
+                "extension": "png",
+                "originalRAM": "40000",
+                "originalSize": "6140",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046378519:37730"
+        }
+    },
+    "1682218046376818:36484": {
+        "IResourceController": {
+            "name": "Pictograms_cloud",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646032166485075:11607489",
+            "fileId": "1682218046378516:37728",
+            "originalId": "1682218046378518:37729",
+            "publicId": "1682218046378929:38428",
+            "expected_hash": "97eed021fbee2a7ebf0a334a765843be",
+            "additional": {
+                "originHash": "f9a71b2abb3bf72e2bcc237adab8c3e2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646032166485075:11607489",
+            "name": "Files/File1432.png",
+            "flags": 1
+        }
+    },
+    "1682218046378516:37728": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378516_37728.pvr"
+        }
+    },
+    "1682218046378518:37729": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378518_37729.png"
+        }
+    },
+    "1682218046378519:37730": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378519_37730.png"
+        }
+    },
+    "1682218046378520:37731": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378520_37731.pvr"
+        }
+    },
+    "1682218046378929:38428": {
+        "IResourceController": {
+            "public": {
+                "path": "Images/Pictograms_cloud.png",
+                "hash": "f9a71b2abb3bf72e2bcc237adab8c3e2"
+            }
+        }
+    }
+}

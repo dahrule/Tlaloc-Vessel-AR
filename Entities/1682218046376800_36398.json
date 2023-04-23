@@ -1,0 +1,39 @@
+{
+    "1682218046376800:36398": {
+        "IResourceController": {
+            "name": "CrossController",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643951584037570:195178",
+            "fileId": "1682218046377818:37188",
+            "originalId": "1682218046377819:37189",
+            "publicId": "1682218046378903:38352",
+            "expected_hash": "9b22f191e51d3184d695e7df05d54d3a"
+        },
+        "IResourceManager": {
+            "uid": "1643951584037570:195178",
+            "name": "CrossController",
+            "flags": 0
+        }
+    },
+    "1682218046377818:37188": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377818_37188.oprfb"
+        }
+    },
+    "1682218046377819:37189": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377819_37189.oprfb"
+        }
+    },
+    "1682218046378903:38352": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/CrossController.oprfb",
+                "hash": "9b22f191e51d3184d695e7df05d54d3a"
+            }
+        }
+    }
+}

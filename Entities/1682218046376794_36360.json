@@ -1,0 +1,39 @@
+{
+    "1682218046376794:36360": {
+        "IResourceController": {
+            "name": "Distance Check",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443728525:123407",
+            "fileId": "1682218046377738:37124",
+            "originalId": "1682218046377737:37123",
+            "publicId": "1682218046378894:38328",
+            "expected_hash": "f8aaedd0e47790138d324371f5968b2b"
+        },
+        "IResourceManager": {
+            "uid": "1643762443728525:123407",
+            "name": "Files/File_1682218046377738_37124",
+            "flags": 1
+        }
+    },
+    "1682218046377737:37123": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377737_37123.lsscript"
+        }
+    },
+    "1682218046377738:37124": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377738_37124"
+        }
+    },
+    "1682218046378894:38328": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Distance Check.lsscript",
+                "hash": "7d57a9db5fc183eeaa774cdf346049b8"
+            }
+        }
+    }
+}

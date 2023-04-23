@@ -1,0 +1,39 @@
+{
+    "1682218046376795:36362": {
+        "IResourceController": {
+            "name": "Good Button",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643762443783053:123429",
+            "fileId": "1682218046377742:37127",
+            "originalId": "1682218046377740:37126",
+            "publicId": "1682218046378894:38329",
+            "expected_hash": "38c81046d96cdc965e2df91f40498326"
+        },
+        "IResourceManager": {
+            "uid": "1643762443783053:123429",
+            "name": "Files/File_1682218046377742_37127",
+            "flags": 1
+        }
+    },
+    "1682218046377740:37126": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377740_37126.lsscript"
+        }
+    },
+    "1682218046377742:37127": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377742_37127"
+        }
+    },
+    "1682218046378894:38329": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Script Graphs/Good Button.lsscript",
+                "hash": "3e4c4a88e2bef247b7abc967f3404b0b"
+            }
+        }
+    }
+}

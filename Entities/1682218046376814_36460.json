@@ -1,0 +1,33 @@
+{
+    "1682218046376814:36460": {
+        "IResourceController": {
+            "name": "AztecMusic_flutePart",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645490948672120:476283",
+            "fileId": "1682218046378457:37681",
+            "publicId": "1682218046378921:38404",
+            "expected_hash": "5cea3864f5a77a36ce95a304ba922a8d"
+        },
+        "IResourceManager": {
+            "uid": "1645490948672120:476283",
+            "name": "Files/File_1682218046378457_37681.mp3",
+            "flags": 1
+        }
+    },
+    "1682218046378457:37681": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378457_37681.mp3"
+        }
+    },
+    "1682218046378921:38404": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio/AztecMusic_flutePart.mp3",
+                "hash": "5cea3864f5a77a36ce95a304ba922a8d"
+            }
+        }
+    }
+}

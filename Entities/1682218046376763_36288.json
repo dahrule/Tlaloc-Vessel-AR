@@ -1,0 +1,42 @@
+{
+    "1682218046376763:36288": {
+        "IResourceController": {
+            "name": "colorPicker_popup",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643744671982154:2396213",
+            "fileId": "1682218046377637:37041",
+            "originalId": "1682218046377638:37042",
+            "publicId": "1682218046378864:38243",
+            "expected_hash": "4081c5e100cee199c73c5a65bcd3f1af",
+            "additional": {
+                "originHash": "4081c5e100cee199c73c5a65bcd3f1af"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643744671982154:2396213",
+            "name": "Files/File597.jpg",
+            "flags": 1
+        }
+    },
+    "1682218046377637:37041": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377637_37041.pvr"
+        }
+    },
+    "1682218046377638:37042": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377638_37042.pvr"
+        }
+    },
+    "1682218046378864:38243": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/Color Picker/colorPicker_popup.pvr",
+                "hash": "4081c5e100cee199c73c5a65bcd3f1af"
+            }
+        }
+    }
+}

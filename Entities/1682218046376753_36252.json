@@ -1,0 +1,17 @@
+{
+    "1682218046376753:36252": {
+        "IResourceController": {
+            "name": "PlatformEffect [PLACE_UNDER_MARKER_TRACKING]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1539727373218871:1861902"
+        },
+        "IResourceManager": {
+            "uid": "1539727373218871:1861902",
+            "name": "/Resources/Resource2059",
+            "flags": 0
+        }
+    }
+}

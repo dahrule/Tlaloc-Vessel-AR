@@ -1,0 +1,33 @@
+{
+    "1682218046376806:36420": {
+        "IResourceController": {
+            "name": "TouchToRead",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645069012713788:835806",
+            "fileId": "1682218046378346:37598",
+            "publicId": "1682218046378910:38372",
+            "expected_hash": "324d936bf1b61fe7a9ad8efc0bd63807"
+        },
+        "IResourceManager": {
+            "uid": "1645069012713788:835806",
+            "name": "Files/File_1682218046378346_37598.js",
+            "flags": 1
+        }
+    },
+    "1682218046378346:37598": {
+        "IFileManager": {
+            "path": "Files/File_1682218046378346_37598.js"
+        }
+    },
+    "1682218046378910:38372": {
+        "IResourceController": {
+            "public": {
+                "path": "MyScripts/TouchToRead.js",
+                "hash": "324d936bf1b61fe7a9ad8efc0bd63807"
+            }
+        }
+    }
+}

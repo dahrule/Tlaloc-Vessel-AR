@@ -1,0 +1,77 @@
+{
+    "1536976031200330:1671901": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "caac7c42968c2b16cf80064f2c128cde"
+                    },
+                    "v": "1682218046377578:36993"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "462848",
+                "compressedSize": "300463",
+                "extension": "t3d",
+                "originalRAM": "3698688",
+                "originalSize": "145852",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682218046377539:36969"
+        }
+    },
+    "1682218046376725:36173": {
+        "IResourceController": {
+            "name": "MagnifyingGlass",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1536976031200330:1671901",
+            "fileId": "1682218046377403:36890",
+            "originalId": "1682218046377555:36983",
+            "publicId": "1682218046378848:38196",
+            "expected_hash": "b22412a92c987ccaaeda20228546f40d"
+        },
+        "IResourceManager": {
+            "uid": "1536976031200330:1671901",
+            "name": "/Resources/Resource1959",
+            "flags": 1
+        }
+    },
+    "1682218046377403:36890": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377403_36890"
+        }
+    },
+    "1682218046377539:36969": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377539_36969"
+        }
+    },
+    "1682218046377555:36983": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377555_36983"
+        }
+    },
+    "1682218046377578:36993": {
+        "IFileManager": {
+            "path": "Files/File_1682218046377578_36993"
+        }
+    },
+    "1682218046378848:38196": {
+        "IResourceController": {
+            "public": {
+                "path": "Magnifying Hint/Texture/MagnifyingGlass",
+                "hash": "caac7c42968c2b16cf80064f2c128cde",
+                "complexResourceHash": "0d1a65dd1d127aaaa382533dbe00d084"
+            }
+        }
+    }
+}
